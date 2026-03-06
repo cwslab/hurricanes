@@ -1,0 +1,7138 @@
+{
+  "years": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904,
+    1905,
+    1906,
+    1907,
+    1908,
+    1909,
+    1910,
+    1911,
+    1912,
+    1913,
+    1914,
+    1915,
+    1916,
+    1917,
+    1918,
+    1919,
+    1920,
+    1921,
+    1922,
+    1923,
+    1924,
+    1925,
+    1926,
+    1927,
+    1928,
+    1929,
+    1930,
+    1931,
+    1932,
+    1933,
+    1934,
+    1935,
+    1936,
+    1937,
+    1938,
+    1939,
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1946,
+    1947,
+    1948,
+    1949,
+    1950,
+    1951,
+    1952,
+    1953,
+    1954,
+    1955,
+    1956,
+    1957,
+    1958,
+    1959,
+    1960,
+    1961,
+    1962,
+    1963,
+    1964,
+    1965,
+    1966,
+    1967,
+    1968,
+    1969,
+    1970,
+    1971,
+    1972,
+    1973,
+    1974,
+    1975,
+    1976,
+    1977,
+    1978,
+    1979,
+    1980,
+    1981,
+    1982,
+    1983,
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "entries": [
+    {
+      "year": "All years",
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/all_years_all_storms.png"
+    },
+    {
+      "year": 1900,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1900_all_storms.png"
+    },
+    {
+      "year": 1901,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1901_all_storms.png"
+    },
+    {
+      "year": 1902,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1902_all_storms.png"
+    },
+    {
+      "year": 1903,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1903_all_storms.png"
+    },
+    {
+      "year": 1904,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1904_all_storms.png"
+    },
+    {
+      "year": 1905,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1905_all_storms.png"
+    },
+    {
+      "year": 1906,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1906_all_storms.png"
+    },
+    {
+      "year": 1907,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1907_all_storms.png"
+    },
+    {
+      "year": 1908,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1908_all_storms.png"
+    },
+    {
+      "year": 1909,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1909_all_storms.png"
+    },
+    {
+      "year": 1910,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1910_all_storms.png"
+    },
+    {
+      "year": 1911,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1911_all_storms.png"
+    },
+    {
+      "year": 1912,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1912_all_storms.png"
+    },
+    {
+      "year": 1913,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1913_all_storms.png"
+    },
+    {
+      "year": 1914,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1914_all_storms.png"
+    },
+    {
+      "year": 1915,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1915_all_storms.png"
+    },
+    {
+      "year": 1916,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1916_all_storms.png"
+    },
+    {
+      "year": 1917,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1917_all_storms.png"
+    },
+    {
+      "year": 1918,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1918_all_storms.png"
+    },
+    {
+      "year": 1919,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1919_all_storms.png"
+    },
+    {
+      "year": 1920,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1920_all_storms.png"
+    },
+    {
+      "year": 1921,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1921_all_storms.png"
+    },
+    {
+      "year": 1922,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1922_all_storms.png"
+    },
+    {
+      "year": 1923,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1923_all_storms.png"
+    },
+    {
+      "year": 1924,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1924_all_storms.png"
+    },
+    {
+      "year": 1925,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1925_all_storms.png"
+    },
+    {
+      "year": 1926,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1926_all_storms.png"
+    },
+    {
+      "year": 1927,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1927_all_storms.png"
+    },
+    {
+      "year": 1928,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1928_all_storms.png"
+    },
+    {
+      "year": 1929,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1929_all_storms.png"
+    },
+    {
+      "year": 1930,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1930_all_storms.png"
+    },
+    {
+      "year": 1931,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1931_all_storms.png"
+    },
+    {
+      "year": 1932,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1932_all_storms.png"
+    },
+    {
+      "year": 1933,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1933_all_storms.png"
+    },
+    {
+      "year": 1934,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1934_all_storms.png"
+    },
+    {
+      "year": 1935,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1935_all_storms.png"
+    },
+    {
+      "year": 1936,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1936_all_storms.png"
+    },
+    {
+      "year": 1937,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1937_all_storms.png"
+    },
+    {
+      "year": 1938,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1938_all_storms.png"
+    },
+    {
+      "year": 1939,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1939_all_storms.png"
+    },
+    {
+      "year": 1940,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1940_all_storms.png"
+    },
+    {
+      "year": 1941,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1941_all_storms.png"
+    },
+    {
+      "year": 1942,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1942_all_storms.png"
+    },
+    {
+      "year": 1943,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1943_all_storms.png"
+    },
+    {
+      "year": 1944,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1944_all_storms.png"
+    },
+    {
+      "year": 1945,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1945_all_storms.png"
+    },
+    {
+      "year": 1946,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1946_all_storms.png"
+    },
+    {
+      "year": 1947,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1947_all_storms.png"
+    },
+    {
+      "year": 1948,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1948_all_storms.png"
+    },
+    {
+      "year": 1949,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1949_all_storms.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1950_all_storms.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 0,
+      "storm_label": "#01 - ABLE",
+      "storm_name": "ABLE",
+      "image": "images/year_1950_storm_01.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 1,
+      "storm_label": "#02 - BAKER",
+      "storm_name": "BAKER",
+      "image": "images/year_1950_storm_02.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 2,
+      "storm_label": "#03 - CHARLIE",
+      "storm_name": "CHARLIE",
+      "image": "images/year_1950_storm_03.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 3,
+      "storm_label": "#04 - DOG",
+      "storm_name": "DOG",
+      "image": "images/year_1950_storm_04.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 4,
+      "storm_label": "#05 - EASY",
+      "storm_name": "EASY",
+      "image": "images/year_1950_storm_05.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 5,
+      "storm_label": "#06 - FOX",
+      "storm_name": "FOX",
+      "image": "images/year_1950_storm_06.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 6,
+      "storm_label": "#07 - GEORGE",
+      "storm_name": "GEORGE",
+      "image": "images/year_1950_storm_07.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 7,
+      "storm_label": "#08 - HOW",
+      "storm_name": "HOW",
+      "image": "images/year_1950_storm_08.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 8,
+      "storm_label": "#09 - ITEM",
+      "storm_name": "ITEM",
+      "image": "images/year_1950_storm_09.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 9,
+      "storm_label": "#10 - JIG",
+      "storm_name": "JIG",
+      "image": "images/year_1950_storm_10.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 10,
+      "storm_label": "#11 - KING",
+      "storm_name": "KING",
+      "image": "images/year_1950_storm_11.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 12,
+      "storm_label": "#13 - LOVE",
+      "storm_name": "LOVE",
+      "image": "images/year_1950_storm_13.png"
+    },
+    {
+      "year": 1950,
+      "storm_value": 13,
+      "storm_label": "#14 - MIKE",
+      "storm_name": "MIKE",
+      "image": "images/year_1950_storm_14.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1951_all_storms.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 1,
+      "storm_label": "#02 - ABLE",
+      "storm_name": "ABLE",
+      "image": "images/year_1951_storm_02.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 2,
+      "storm_label": "#03 - BAKER",
+      "storm_name": "BAKER",
+      "image": "images/year_1951_storm_03.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 3,
+      "storm_label": "#04 - CHARLIE",
+      "storm_name": "CHARLIE",
+      "image": "images/year_1951_storm_04.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 4,
+      "storm_label": "#05 - DOG",
+      "storm_name": "DOG",
+      "image": "images/year_1951_storm_05.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 5,
+      "storm_label": "#06 - EASY",
+      "storm_name": "EASY",
+      "image": "images/year_1951_storm_06.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 6,
+      "storm_label": "#07 - FOX",
+      "storm_name": "FOX",
+      "image": "images/year_1951_storm_07.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 7,
+      "storm_label": "#08 - GEORGE",
+      "storm_name": "GEORGE",
+      "image": "images/year_1951_storm_08.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 8,
+      "storm_label": "#09 - HOW",
+      "storm_name": "HOW",
+      "image": "images/year_1951_storm_09.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 9,
+      "storm_label": "#10 - ITEM",
+      "storm_name": "ITEM",
+      "image": "images/year_1951_storm_10.png"
+    },
+    {
+      "year": 1951,
+      "storm_value": 10,
+      "storm_label": "#11 - JIG",
+      "storm_name": "JIG",
+      "image": "images/year_1951_storm_11.png"
+    },
+    {
+      "year": 1952,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1952_all_storms.png"
+    },
+    {
+      "year": 1952,
+      "storm_value": 1,
+      "storm_label": "#02 - ABLE",
+      "storm_name": "ABLE",
+      "image": "images/year_1952_storm_02.png"
+    },
+    {
+      "year": 1952,
+      "storm_value": 3,
+      "storm_label": "#04 - BAKER",
+      "storm_name": "BAKER",
+      "image": "images/year_1952_storm_04.png"
+    },
+    {
+      "year": 1952,
+      "storm_value": 5,
+      "storm_label": "#06 - CHARLIE",
+      "storm_name": "CHARLIE",
+      "image": "images/year_1952_storm_06.png"
+    },
+    {
+      "year": 1952,
+      "storm_value": 6,
+      "storm_label": "#07 - DOG",
+      "storm_name": "DOG",
+      "image": "images/year_1952_storm_07.png"
+    },
+    {
+      "year": 1952,
+      "storm_value": 8,
+      "storm_label": "#09 - EASY",
+      "storm_name": "EASY",
+      "image": "images/year_1952_storm_09.png"
+    },
+    {
+      "year": 1952,
+      "storm_value": 9,
+      "storm_label": "#10 - FOX",
+      "storm_name": "FOX",
+      "image": "images/year_1952_storm_10.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1953_all_storms.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 0,
+      "storm_label": "#01 - ALICE",
+      "storm_name": "ALICE",
+      "image": "images/year_1953_storm_01.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 2,
+      "storm_label": "#03 - BARBARA",
+      "storm_name": "BARBARA",
+      "image": "images/year_1953_storm_03.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 3,
+      "storm_label": "#04 - CAROL",
+      "storm_name": "CAROL",
+      "image": "images/year_1953_storm_04.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 5,
+      "storm_label": "#06 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_1953_storm_06.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 6,
+      "storm_label": "#07 - EDNA",
+      "storm_name": "EDNA",
+      "image": "images/year_1953_storm_07.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 8,
+      "storm_label": "#09 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_1953_storm_09.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 9,
+      "storm_label": "#10 - GAIL",
+      "storm_name": "GAIL",
+      "image": "images/year_1953_storm_10.png"
+    },
+    {
+      "year": 1953,
+      "storm_value": 11,
+      "storm_label": "#12 - HAZEL",
+      "storm_name": "HAZEL",
+      "image": "images/year_1953_storm_12.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1954_all_storms.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 2,
+      "storm_label": "#03 - ALICE",
+      "storm_name": "ALICE",
+      "image": "images/year_1954_storm_03.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 4,
+      "storm_label": "#05 - BARBARA",
+      "storm_name": "BARBARA",
+      "image": "images/year_1954_storm_05.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 5,
+      "storm_label": "#06 - CAROL",
+      "storm_name": "CAROL",
+      "image": "images/year_1954_storm_06.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 6,
+      "storm_label": "#07 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_1954_storm_07.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 7,
+      "storm_label": "#08 - EDNA",
+      "storm_name": "EDNA",
+      "image": "images/year_1954_storm_08.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 9,
+      "storm_label": "#10 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_1954_storm_10.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 11,
+      "storm_label": "#12 - GILDA",
+      "storm_name": "GILDA",
+      "image": "images/year_1954_storm_12.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 13,
+      "storm_label": "#14 - HAZEL",
+      "storm_name": "HAZEL",
+      "image": "images/year_1954_storm_14.png"
+    },
+    {
+      "year": 1954,
+      "storm_value": 15,
+      "storm_label": "#16 - ALICE",
+      "storm_name": "ALICE",
+      "image": "images/year_1954_storm_16.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1955_all_storms.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 0,
+      "storm_label": "#01 - BRENDA",
+      "storm_name": "BRENDA",
+      "image": "images/year_1955_storm_01.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 1,
+      "storm_label": "#02 - CONNIE",
+      "storm_name": "CONNIE",
+      "image": "images/year_1955_storm_02.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 2,
+      "storm_label": "#03 - DIANE",
+      "storm_name": "DIANE",
+      "image": "images/year_1955_storm_03.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 3,
+      "storm_label": "#04 - EDITH",
+      "storm_name": "EDITH",
+      "image": "images/year_1955_storm_04.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 5,
+      "storm_label": "#06 - FLORA",
+      "storm_name": "FLORA",
+      "image": "images/year_1955_storm_06.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 6,
+      "storm_label": "#07 - GLADYS",
+      "storm_name": "GLADYS",
+      "image": "images/year_1955_storm_07.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 7,
+      "storm_label": "#08 - IONE",
+      "storm_name": "IONE",
+      "image": "images/year_1955_storm_08.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 8,
+      "storm_label": "#09 - HILDA",
+      "storm_name": "HILDA",
+      "image": "images/year_1955_storm_09.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 9,
+      "storm_label": "#10 - JANET",
+      "storm_name": "JANET",
+      "image": "images/year_1955_storm_10.png"
+    },
+    {
+      "year": 1955,
+      "storm_value": 12,
+      "storm_label": "#13 - KATIE",
+      "storm_name": "KATIE",
+      "image": "images/year_1955_storm_13.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1956_all_storms.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": 1,
+      "storm_label": "#02 - ANNA",
+      "storm_name": "ANNA",
+      "image": "images/year_1956_storm_02.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": 2,
+      "storm_label": "#03 - BETSY",
+      "storm_name": "BETSY",
+      "image": "images/year_1956_storm_03.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": 3,
+      "storm_label": "#04 - CARLA",
+      "storm_name": "CARLA",
+      "image": "images/year_1956_storm_04.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": 4,
+      "storm_label": "#05 - DORA",
+      "storm_name": "DORA",
+      "image": "images/year_1956_storm_05.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": 5,
+      "storm_label": "#06 - ETHEL",
+      "storm_name": "ETHEL",
+      "image": "images/year_1956_storm_06.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": 6,
+      "storm_label": "#07 - FLOSSY",
+      "storm_name": "FLOSSY",
+      "image": "images/year_1956_storm_07.png"
+    },
+    {
+      "year": 1956,
+      "storm_value": 7,
+      "storm_label": "#08 - GRETA",
+      "storm_name": "GRETA",
+      "image": "images/year_1956_storm_08.png"
+    },
+    {
+      "year": 1957,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1957_all_storms.png"
+    },
+    {
+      "year": 1957,
+      "storm_value": 1,
+      "storm_label": "#02 - AUDREY",
+      "storm_name": "AUDREY",
+      "image": "images/year_1957_storm_02.png"
+    },
+    {
+      "year": 1957,
+      "storm_value": 2,
+      "storm_label": "#03 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_1957_storm_03.png"
+    },
+    {
+      "year": 1957,
+      "storm_value": 3,
+      "storm_label": "#04 - CARRIE",
+      "storm_name": "CARRIE",
+      "image": "images/year_1957_storm_04.png"
+    },
+    {
+      "year": 1957,
+      "storm_value": 4,
+      "storm_label": "#05 - DEBBIE",
+      "storm_name": "DEBBIE",
+      "image": "images/year_1957_storm_05.png"
+    },
+    {
+      "year": 1957,
+      "storm_value": 5,
+      "storm_label": "#06 - ESTHER",
+      "storm_name": "ESTHER",
+      "image": "images/year_1957_storm_06.png"
+    },
+    {
+      "year": 1957,
+      "storm_value": 6,
+      "storm_label": "#07 - FRIEDA",
+      "storm_name": "FRIEDA",
+      "image": "images/year_1957_storm_07.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1958_all_storms.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 0,
+      "storm_label": "#01 - ALMA",
+      "storm_name": "ALMA",
+      "image": "images/year_1958_storm_01.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 1,
+      "storm_label": "#02 - BECKY",
+      "storm_name": "BECKY",
+      "image": "images/year_1958_storm_02.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 2,
+      "storm_label": "#03 - CLEO",
+      "storm_name": "CLEO",
+      "image": "images/year_1958_storm_03.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 3,
+      "storm_label": "#04 - DAISY",
+      "storm_name": "DAISY",
+      "image": "images/year_1958_storm_04.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 4,
+      "storm_label": "#05 - ELLA",
+      "storm_name": "ELLA",
+      "image": "images/year_1958_storm_05.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 5,
+      "storm_label": "#06 - FIFI",
+      "storm_name": "FIFI",
+      "image": "images/year_1958_storm_06.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 6,
+      "storm_label": "#07 - GERDA",
+      "storm_name": "GERDA",
+      "image": "images/year_1958_storm_07.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 7,
+      "storm_label": "#08 - HELENE",
+      "storm_name": "HELENE",
+      "image": "images/year_1958_storm_08.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 8,
+      "storm_label": "#09 - ILSA",
+      "storm_name": "ILSA",
+      "image": "images/year_1958_storm_09.png"
+    },
+    {
+      "year": 1958,
+      "storm_value": 9,
+      "storm_label": "#10 - JANICE",
+      "storm_name": "JANICE",
+      "image": "images/year_1958_storm_10.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1959_all_storms.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 0,
+      "storm_label": "#01 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1959_storm_01.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 1,
+      "storm_label": "#02 - BEULAH",
+      "storm_name": "BEULAH",
+      "image": "images/year_1959_storm_02.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 3,
+      "storm_label": "#04 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_1959_storm_04.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 4,
+      "storm_label": "#05 - DEBRA",
+      "storm_name": "DEBRA",
+      "image": "images/year_1959_storm_05.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 5,
+      "storm_label": "#06 - EDITH",
+      "storm_name": "EDITH",
+      "image": "images/year_1959_storm_06.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 6,
+      "storm_label": "#07 - FLORA",
+      "storm_name": "FLORA",
+      "image": "images/year_1959_storm_07.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 7,
+      "storm_label": "#08 - GRACIE",
+      "storm_name": "GRACIE",
+      "image": "images/year_1959_storm_08.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 8,
+      "storm_label": "#09 - HANNAH",
+      "storm_name": "HANNAH",
+      "image": "images/year_1959_storm_09.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 9,
+      "storm_label": "#10 - IRENE",
+      "storm_name": "IRENE",
+      "image": "images/year_1959_storm_10.png"
+    },
+    {
+      "year": 1959,
+      "storm_value": 10,
+      "storm_label": "#11 - JUDITH",
+      "storm_name": "JUDITH",
+      "image": "images/year_1959_storm_11.png"
+    },
+    {
+      "year": 1960,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1960_all_storms.png"
+    },
+    {
+      "year": 1960,
+      "storm_value": 1,
+      "storm_label": "#02 - ABBY",
+      "storm_name": "ABBY",
+      "image": "images/year_1960_storm_02.png"
+    },
+    {
+      "year": 1960,
+      "storm_value": 2,
+      "storm_label": "#03 - BRENDA",
+      "storm_name": "BRENDA",
+      "image": "images/year_1960_storm_03.png"
+    },
+    {
+      "year": 1960,
+      "storm_value": 3,
+      "storm_label": "#04 - CLEO",
+      "storm_name": "CLEO",
+      "image": "images/year_1960_storm_04.png"
+    },
+    {
+      "year": 1960,
+      "storm_value": 4,
+      "storm_label": "#05 - DONNA",
+      "storm_name": "DONNA",
+      "image": "images/year_1960_storm_05.png"
+    },
+    {
+      "year": 1960,
+      "storm_value": 5,
+      "storm_label": "#06 - ETHEL",
+      "storm_name": "ETHEL",
+      "image": "images/year_1960_storm_06.png"
+    },
+    {
+      "year": 1960,
+      "storm_value": 6,
+      "storm_label": "#07 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_1960_storm_07.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1961_all_storms.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 0,
+      "storm_label": "#01 - ANNA",
+      "storm_name": "ANNA",
+      "image": "images/year_1961_storm_01.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 1,
+      "storm_label": "#02 - BETSY",
+      "storm_name": "BETSY",
+      "image": "images/year_1961_storm_02.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 2,
+      "storm_label": "#03 - CARLA",
+      "storm_name": "CARLA",
+      "image": "images/year_1961_storm_03.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 3,
+      "storm_label": "#04 - DEBBIE",
+      "storm_name": "DEBBIE",
+      "image": "images/year_1961_storm_04.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 4,
+      "storm_label": "#05 - ESTHER",
+      "storm_name": "ESTHER",
+      "image": "images/year_1961_storm_05.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 6,
+      "storm_label": "#07 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_1961_storm_07.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 7,
+      "storm_label": "#08 - GERDA",
+      "storm_name": "GERDA",
+      "image": "images/year_1961_storm_08.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 8,
+      "storm_label": "#09 - HATTIE",
+      "storm_name": "HATTIE",
+      "image": "images/year_1961_storm_09.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 9,
+      "storm_label": "#10 - JENNY",
+      "storm_name": "JENNY",
+      "image": "images/year_1961_storm_10.png"
+    },
+    {
+      "year": 1961,
+      "storm_value": 10,
+      "storm_label": "#11 - INGA",
+      "storm_name": "INGA",
+      "image": "images/year_1961_storm_11.png"
+    },
+    {
+      "year": 1962,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1962_all_storms.png"
+    },
+    {
+      "year": 1962,
+      "storm_value": 0,
+      "storm_label": "#01 - ALMA",
+      "storm_name": "ALMA",
+      "image": "images/year_1962_storm_01.png"
+    },
+    {
+      "year": 1962,
+      "storm_value": 1,
+      "storm_label": "#02 - BECKY",
+      "storm_name": "BECKY",
+      "image": "images/year_1962_storm_02.png"
+    },
+    {
+      "year": 1962,
+      "storm_value": 2,
+      "storm_label": "#03 - CELIA",
+      "storm_name": "CELIA",
+      "image": "images/year_1962_storm_03.png"
+    },
+    {
+      "year": 1962,
+      "storm_value": 3,
+      "storm_label": "#04 - DAISY",
+      "storm_name": "DAISY",
+      "image": "images/year_1962_storm_04.png"
+    },
+    {
+      "year": 1962,
+      "storm_value": 4,
+      "storm_label": "#05 - ELLA",
+      "storm_name": "ELLA",
+      "image": "images/year_1962_storm_05.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1963_all_storms.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 0,
+      "storm_label": "#01 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1963_storm_01.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 1,
+      "storm_label": "#02 - BEULAH",
+      "storm_name": "BEULAH",
+      "image": "images/year_1963_storm_02.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 3,
+      "storm_label": "#04 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_1963_storm_04.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 4,
+      "storm_label": "#05 - DEBRA",
+      "storm_name": "DEBRA",
+      "image": "images/year_1963_storm_05.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 5,
+      "storm_label": "#06 - EDITH",
+      "storm_name": "EDITH",
+      "image": "images/year_1963_storm_06.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 6,
+      "storm_label": "#07 - FLORA",
+      "storm_name": "FLORA",
+      "image": "images/year_1963_storm_07.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 7,
+      "storm_label": "#08 - GINNY",
+      "storm_name": "GINNY",
+      "image": "images/year_1963_storm_08.png"
+    },
+    {
+      "year": 1963,
+      "storm_value": 8,
+      "storm_label": "#09 - HELENA",
+      "storm_name": "HELENA",
+      "image": "images/year_1963_storm_09.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1964_all_storms.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 2,
+      "storm_label": "#03 - ABBY",
+      "storm_name": "ABBY",
+      "image": "images/year_1964_storm_03.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 3,
+      "storm_label": "#04 - BRENDA",
+      "storm_name": "BRENDA",
+      "image": "images/year_1964_storm_04.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 4,
+      "storm_label": "#05 - CLEO",
+      "storm_name": "CLEO",
+      "image": "images/year_1964_storm_05.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 5,
+      "storm_label": "#06 - DORA",
+      "storm_name": "DORA",
+      "image": "images/year_1964_storm_06.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 6,
+      "storm_label": "#07 - ETHEL",
+      "storm_name": "ETHEL",
+      "image": "images/year_1964_storm_07.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 7,
+      "storm_label": "#08 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_1964_storm_08.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 8,
+      "storm_label": "#09 - GLADYS",
+      "storm_name": "GLADYS",
+      "image": "images/year_1964_storm_09.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 9,
+      "storm_label": "#10 - HILDA",
+      "storm_name": "HILDA",
+      "image": "images/year_1964_storm_10.png"
+    },
+    {
+      "year": 1964,
+      "storm_value": 10,
+      "storm_label": "#11 - ISBELL",
+      "storm_name": "ISBELL",
+      "image": "images/year_1964_storm_11.png"
+    },
+    {
+      "year": 1965,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1965_all_storms.png"
+    },
+    {
+      "year": 1965,
+      "storm_value": 1,
+      "storm_label": "#02 - ANNA",
+      "storm_name": "ANNA",
+      "image": "images/year_1965_storm_02.png"
+    },
+    {
+      "year": 1965,
+      "storm_value": 2,
+      "storm_label": "#03 - BETSY",
+      "storm_name": "BETSY",
+      "image": "images/year_1965_storm_03.png"
+    },
+    {
+      "year": 1965,
+      "storm_value": 3,
+      "storm_label": "#04 - CAROL",
+      "storm_name": "CAROL",
+      "image": "images/year_1965_storm_04.png"
+    },
+    {
+      "year": 1965,
+      "storm_value": 4,
+      "storm_label": "#05 - DEBBIE",
+      "storm_name": "DEBBIE",
+      "image": "images/year_1965_storm_05.png"
+    },
+    {
+      "year": 1965,
+      "storm_value": 5,
+      "storm_label": "#06 - ELENA",
+      "storm_name": "ELENA",
+      "image": "images/year_1965_storm_06.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1966_all_storms.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 0,
+      "storm_label": "#01 - ALMA",
+      "storm_name": "ALMA",
+      "image": "images/year_1966_storm_01.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 1,
+      "storm_label": "#02 - BECKY",
+      "storm_name": "BECKY",
+      "image": "images/year_1966_storm_02.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 2,
+      "storm_label": "#03 - CELIA",
+      "storm_name": "CELIA",
+      "image": "images/year_1966_storm_03.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 3,
+      "storm_label": "#04 - DOROTHY",
+      "storm_name": "DOROTHY",
+      "image": "images/year_1966_storm_04.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 4,
+      "storm_label": "#05 - ELLA",
+      "storm_name": "ELLA",
+      "image": "images/year_1966_storm_05.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 5,
+      "storm_label": "#06 - FAITH",
+      "storm_name": "FAITH",
+      "image": "images/year_1966_storm_06.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 6,
+      "storm_label": "#07 - GRETA",
+      "storm_name": "GRETA",
+      "image": "images/year_1966_storm_07.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 7,
+      "storm_label": "#08 - HALLIE",
+      "storm_name": "HALLIE",
+      "image": "images/year_1966_storm_08.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 8,
+      "storm_label": "#09 - INEZ",
+      "storm_name": "INEZ",
+      "image": "images/year_1966_storm_09.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 9,
+      "storm_label": "#10 - JUDITH",
+      "storm_name": "JUDITH",
+      "image": "images/year_1966_storm_10.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 10,
+      "storm_label": "#11 - LOIS",
+      "storm_name": "LOIS",
+      "image": "images/year_1966_storm_11.png"
+    },
+    {
+      "year": 1966,
+      "storm_value": 14,
+      "storm_label": "#15 - KENDRA",
+      "storm_name": "KENDRA",
+      "image": "images/year_1966_storm_15.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1967_all_storms.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 10,
+      "storm_label": "#11 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1967_storm_11.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 11,
+      "storm_label": "#12 - CHLOE",
+      "storm_name": "CHLOE",
+      "image": "images/year_1967_storm_12.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 12,
+      "storm_label": "#13 - BEULAH",
+      "storm_name": "BEULAH",
+      "image": "images/year_1967_storm_13.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 13,
+      "storm_label": "#14 - DORIA",
+      "storm_name": "DORIA",
+      "image": "images/year_1967_storm_14.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 17,
+      "storm_label": "#18 - EDITH",
+      "storm_name": "EDITH",
+      "image": "images/year_1967_storm_18.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 18,
+      "storm_label": "#19 - FERN",
+      "storm_name": "FERN",
+      "image": "images/year_1967_storm_19.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 20,
+      "storm_label": "#21 - GINGER",
+      "storm_name": "GINGER",
+      "image": "images/year_1967_storm_21.png"
+    },
+    {
+      "year": 1967,
+      "storm_value": 24,
+      "storm_label": "#25 - HEIDI",
+      "storm_name": "HEIDI",
+      "image": "images/year_1967_storm_25.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1968_all_storms.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": 0,
+      "storm_label": "#01 - ABBY",
+      "storm_name": "ABBY",
+      "image": "images/year_1968_storm_01.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": 1,
+      "storm_label": "#02 - BRENDA",
+      "storm_name": "BRENDA",
+      "image": "images/year_1968_storm_02.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": 2,
+      "storm_label": "#03 - CANDY",
+      "storm_name": "CANDY",
+      "image": "images/year_1968_storm_03.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": 4,
+      "storm_label": "#05 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_1968_storm_05.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": 7,
+      "storm_label": "#08 - EDNA",
+      "storm_name": "EDNA",
+      "image": "images/year_1968_storm_08.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": 11,
+      "storm_label": "#12 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_1968_storm_12.png"
+    },
+    {
+      "year": 1968,
+      "storm_value": 13,
+      "storm_label": "#14 - GLADYS",
+      "storm_name": "GLADYS",
+      "image": "images/year_1968_storm_14.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1969_all_storms.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 5,
+      "storm_label": "#06 - ANNA",
+      "storm_name": "ANNA",
+      "image": "images/year_1969_storm_06.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 6,
+      "storm_label": "#07 - BLANCHE",
+      "storm_name": "BLANCHE",
+      "image": "images/year_1969_storm_07.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 7,
+      "storm_label": "#08 - DEBBIE",
+      "storm_name": "DEBBIE",
+      "image": "images/year_1969_storm_08.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 8,
+      "storm_label": "#09 - CAMILLE",
+      "storm_name": "CAMILLE",
+      "image": "images/year_1969_storm_09.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 11,
+      "storm_label": "#12 - EVE",
+      "storm_name": "EVE",
+      "image": "images/year_1969_storm_12.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 12,
+      "storm_label": "#13 - FRANCELIA",
+      "storm_name": "FRANCELIA",
+      "image": "images/year_1969_storm_13.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 15,
+      "storm_label": "#16 - GERDA",
+      "storm_name": "GERDA",
+      "image": "images/year_1969_storm_16.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 16,
+      "storm_label": "#17 - HOLLY",
+      "storm_name": "HOLLY",
+      "image": "images/year_1969_storm_17.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 19,
+      "storm_label": "#20 - INGA",
+      "storm_name": "INGA",
+      "image": "images/year_1969_storm_20.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 23,
+      "storm_label": "#24 - JENNY",
+      "storm_name": "JENNY",
+      "image": "images/year_1969_storm_24.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 24,
+      "storm_label": "#25 - KARA",
+      "storm_name": "KARA",
+      "image": "images/year_1969_storm_25.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 25,
+      "storm_label": "#26 - LAURIE",
+      "storm_name": "LAURIE",
+      "image": "images/year_1969_storm_26.png"
+    },
+    {
+      "year": 1969,
+      "storm_value": 28,
+      "storm_label": "#29 - MARTHA",
+      "storm_name": "MARTHA",
+      "image": "images/year_1969_storm_29.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1970_all_storms.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": 0,
+      "storm_label": "#01 - ALMA",
+      "storm_name": "ALMA",
+      "image": "images/year_1970_storm_01.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": 1,
+      "storm_label": "#02 - BECKY",
+      "storm_name": "BECKY",
+      "image": "images/year_1970_storm_02.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": 3,
+      "storm_label": "#04 - CELIA",
+      "storm_name": "CELIA",
+      "image": "images/year_1970_storm_04.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": 8,
+      "storm_label": "#09 - DOROTHY",
+      "storm_name": "DOROTHY",
+      "image": "images/year_1970_storm_09.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": 11,
+      "storm_label": "#12 - ELLA",
+      "storm_name": "ELLA",
+      "image": "images/year_1970_storm_12.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": 12,
+      "storm_label": "#13 - FELICE",
+      "storm_name": "FELICE",
+      "image": "images/year_1970_storm_13.png"
+    },
+    {
+      "year": 1970,
+      "storm_value": 15,
+      "storm_label": "#16 - GRETA",
+      "storm_name": "GRETA",
+      "image": "images/year_1970_storm_16.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1971_all_storms.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 0,
+      "storm_label": "#01 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1971_storm_01.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 5,
+      "storm_label": "#06 - BETH",
+      "storm_name": "BETH",
+      "image": "images/year_1971_storm_06.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 7,
+      "storm_label": "#08 - CHLOE",
+      "storm_name": "CHLOE",
+      "image": "images/year_1971_storm_08.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 8,
+      "storm_label": "#09 - DORIA",
+      "storm_name": "DORIA",
+      "image": "images/year_1971_storm_09.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 10,
+      "storm_label": "#11 - FERN",
+      "storm_name": "FERN",
+      "image": "images/year_1971_storm_11.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 12,
+      "storm_label": "#13 - EDITH",
+      "storm_name": "EDITH",
+      "image": "images/year_1971_storm_13.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 13,
+      "storm_label": "#14 - GINGER",
+      "storm_name": "GINGER",
+      "image": "images/year_1971_storm_14.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 16,
+      "storm_label": "#17 - HEIDI",
+      "storm_name": "HEIDI",
+      "image": "images/year_1971_storm_17.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 17,
+      "storm_label": "#18 - IRENE",
+      "storm_name": "IRENE",
+      "image": "images/year_1971_storm_18.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 18,
+      "storm_label": "#19 - JANICE",
+      "storm_name": "JANICE",
+      "image": "images/year_1971_storm_19.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 20,
+      "storm_label": "#21 - KRISTY",
+      "storm_name": "KRISTY",
+      "image": "images/year_1971_storm_21.png"
+    },
+    {
+      "year": 1971,
+      "storm_value": 21,
+      "storm_label": "#22 - LAURA",
+      "storm_name": "LAURA",
+      "image": "images/year_1971_storm_22.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1972_all_storms.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": 0,
+      "storm_label": "#01 - ALPHA",
+      "storm_name": "ALPHA",
+      "image": "images/year_1972_storm_01.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": 1,
+      "storm_label": "#02 - AGNES",
+      "storm_name": "AGNES",
+      "image": "images/year_1972_storm_02.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": 9,
+      "storm_label": "#10 - BETTY",
+      "storm_name": "BETTY",
+      "image": "images/year_1972_storm_10.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": 10,
+      "storm_label": "#11 - CARRIE",
+      "storm_name": "CARRIE",
+      "image": "images/year_1972_storm_11.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": 12,
+      "storm_label": "#13 - DAWN",
+      "storm_name": "DAWN",
+      "image": "images/year_1972_storm_13.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": 13,
+      "storm_label": "#14 - CHARLIE",
+      "storm_name": "CHARLIE",
+      "image": "images/year_1972_storm_14.png"
+    },
+    {
+      "year": 1972,
+      "storm_value": 18,
+      "storm_label": "#19 - DELTA",
+      "storm_name": "DELTA",
+      "image": "images/year_1972_storm_19.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1973_all_storms.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 3,
+      "storm_label": "#04 - ALICE",
+      "storm_name": "ALICE",
+      "image": "images/year_1973_storm_04.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 5,
+      "storm_label": "#06 - ALFA",
+      "storm_name": "ALFA",
+      "image": "images/year_1973_storm_06.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 7,
+      "storm_label": "#08 - BRENDA",
+      "storm_name": "BRENDA",
+      "image": "images/year_1973_storm_08.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 8,
+      "storm_label": "#09 - CHRISTINE",
+      "storm_name": "CHRISTINE",
+      "image": "images/year_1973_storm_09.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 9,
+      "storm_label": "#10 - DELIA",
+      "storm_name": "DELIA",
+      "image": "images/year_1973_storm_10.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 11,
+      "storm_label": "#12 - ELLEN",
+      "storm_name": "ELLEN",
+      "image": "images/year_1973_storm_12.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 13,
+      "storm_label": "#14 - FRAN",
+      "storm_name": "FRAN",
+      "image": "images/year_1973_storm_14.png"
+    },
+    {
+      "year": 1973,
+      "storm_value": 15,
+      "storm_label": "#16 - GILDA",
+      "storm_name": "GILDA",
+      "image": "images/year_1973_storm_16.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1974_all_storms.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": 6,
+      "storm_label": "#07 - ALMA",
+      "storm_name": "ALMA",
+      "image": "images/year_1974_storm_07.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": 8,
+      "storm_label": "#09 - BECKY",
+      "storm_name": "BECKY",
+      "image": "images/year_1974_storm_09.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": 9,
+      "storm_label": "#10 - CARMEN",
+      "storm_name": "CARMEN",
+      "image": "images/year_1974_storm_10.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": 11,
+      "storm_label": "#12 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_1974_storm_12.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": 12,
+      "storm_label": "#13 - ELAINE",
+      "storm_name": "ELAINE",
+      "image": "images/year_1974_storm_13.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": 13,
+      "storm_label": "#14 - FIFI",
+      "storm_name": "FIFI",
+      "image": "images/year_1974_storm_14.png"
+    },
+    {
+      "year": 1974,
+      "storm_value": 16,
+      "storm_label": "#17 - GERTRUDE",
+      "storm_name": "GERTRUDE",
+      "image": "images/year_1974_storm_17.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1975_all_storms.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 1,
+      "storm_label": "#02 - AMY",
+      "storm_name": "AMY",
+      "image": "images/year_1975_storm_02.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 3,
+      "storm_label": "#04 - BLANCHE",
+      "storm_name": "BLANCHE",
+      "image": "images/year_1975_storm_04.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 6,
+      "storm_label": "#07 - CAROLINE",
+      "storm_name": "CAROLINE",
+      "image": "images/year_1975_storm_07.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 7,
+      "storm_label": "#08 - DORIS",
+      "storm_name": "DORIS",
+      "image": "images/year_1975_storm_08.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 12,
+      "storm_label": "#13 - ELOISE",
+      "storm_name": "ELOISE",
+      "image": "images/year_1975_storm_13.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 13,
+      "storm_label": "#14 - FAYE",
+      "storm_name": "FAYE",
+      "image": "images/year_1975_storm_14.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 14,
+      "storm_label": "#15 - GLADYS",
+      "storm_name": "GLADYS",
+      "image": "images/year_1975_storm_15.png"
+    },
+    {
+      "year": 1975,
+      "storm_value": 18,
+      "storm_label": "#19 - HALLIE",
+      "storm_name": "HALLIE",
+      "image": "images/year_1975_storm_19.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1976_all_storms.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 5,
+      "storm_label": "#06 - ANNA",
+      "storm_name": "ANNA",
+      "image": "images/year_1976_storm_06.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 6,
+      "storm_label": "#07 - BELLE",
+      "storm_name": "BELLE",
+      "image": "images/year_1976_storm_07.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 7,
+      "storm_label": "#08 - DOTTIE",
+      "storm_name": "DOTTIE",
+      "image": "images/year_1976_storm_08.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 8,
+      "storm_label": "#09 - CANDICE",
+      "storm_name": "CANDICE",
+      "image": "images/year_1976_storm_09.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 9,
+      "storm_label": "#10 - EMMY",
+      "storm_name": "EMMY",
+      "image": "images/year_1976_storm_10.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 10,
+      "storm_label": "#11 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_1976_storm_11.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 16,
+      "storm_label": "#17 - GLORIA",
+      "storm_name": "GLORIA",
+      "image": "images/year_1976_storm_17.png"
+    },
+    {
+      "year": 1976,
+      "storm_value": 20,
+      "storm_label": "#21 - HOLLY",
+      "storm_name": "HOLLY",
+      "image": "images/year_1976_storm_21.png"
+    },
+    {
+      "year": 1977,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1977_all_storms.png"
+    },
+    {
+      "year": 1977,
+      "storm_value": 4,
+      "storm_label": "#05 - ANITA",
+      "storm_name": "ANITA",
+      "image": "images/year_1977_storm_05.png"
+    },
+    {
+      "year": 1977,
+      "storm_value": 5,
+      "storm_label": "#06 - BABE",
+      "storm_name": "BABE",
+      "image": "images/year_1977_storm_06.png"
+    },
+    {
+      "year": 1977,
+      "storm_value": 6,
+      "storm_label": "#07 - CLARA",
+      "storm_name": "CLARA",
+      "image": "images/year_1977_storm_07.png"
+    },
+    {
+      "year": 1977,
+      "storm_value": 9,
+      "storm_label": "#10 - DOROTHY",
+      "storm_name": "DOROTHY",
+      "image": "images/year_1977_storm_10.png"
+    },
+    {
+      "year": 1977,
+      "storm_value": 12,
+      "storm_label": "#13 - EVELYN",
+      "storm_name": "EVELYN",
+      "image": "images/year_1977_storm_13.png"
+    },
+    {
+      "year": 1977,
+      "storm_value": 13,
+      "storm_label": "#14 - FRIEDA",
+      "storm_name": "FRIEDA",
+      "image": "images/year_1977_storm_14.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1978_all_storms.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 3,
+      "storm_label": "#04 - AMELIA",
+      "storm_name": "AMELIA",
+      "image": "images/year_1978_storm_04.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 4,
+      "storm_label": "#05 - BESS",
+      "storm_name": "BESS",
+      "image": "images/year_1978_storm_05.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 5,
+      "storm_label": "#06 - CORA",
+      "storm_name": "CORA",
+      "image": "images/year_1978_storm_06.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 8,
+      "storm_label": "#09 - DEBRA",
+      "storm_name": "DEBRA",
+      "image": "images/year_1978_storm_09.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 9,
+      "storm_label": "#10 - ELLA",
+      "storm_name": "ELLA",
+      "image": "images/year_1978_storm_10.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 12,
+      "storm_label": "#13 - FLOSSIE",
+      "storm_name": "FLOSSIE",
+      "image": "images/year_1978_storm_13.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 14,
+      "storm_label": "#15 - HOPE",
+      "storm_name": "HOPE",
+      "image": "images/year_1978_storm_15.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 15,
+      "storm_label": "#16 - GRETA",
+      "storm_name": "GRETA",
+      "image": "images/year_1978_storm_16.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 18,
+      "storm_label": "#19 - IRMA",
+      "storm_name": "IRMA",
+      "image": "images/year_1978_storm_19.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 19,
+      "storm_label": "#20 - JULIET",
+      "storm_name": "JULIET",
+      "image": "images/year_1978_storm_20.png"
+    },
+    {
+      "year": 1978,
+      "storm_value": 22,
+      "storm_label": "#23 - KENDRA",
+      "storm_name": "KENDRA",
+      "image": "images/year_1978_storm_23.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1979_all_storms.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 1,
+      "storm_label": "#02 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_1979_storm_02.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 3,
+      "storm_label": "#04 - BOB",
+      "storm_name": "BOB",
+      "image": "images/year_1979_storm_04.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 5,
+      "storm_label": "#06 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_1979_storm_06.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 8,
+      "storm_label": "#09 - DAVID",
+      "storm_name": "DAVID",
+      "image": "images/year_1979_storm_09.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 10,
+      "storm_label": "#11 - FREDERIC",
+      "storm_name": "FREDERIC",
+      "image": "images/year_1979_storm_11.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 11,
+      "storm_label": "#12 - ELENA",
+      "storm_name": "ELENA",
+      "image": "images/year_1979_storm_12.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 13,
+      "storm_label": "#14 - GLORIA",
+      "storm_name": "GLORIA",
+      "image": "images/year_1979_storm_14.png"
+    },
+    {
+      "year": 1979,
+      "storm_value": 14,
+      "storm_label": "#15 - HENRI",
+      "storm_name": "HENRI",
+      "image": "images/year_1979_storm_15.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1980_all_storms.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 3,
+      "storm_label": "#04 - ALLEN",
+      "storm_name": "ALLEN",
+      "image": "images/year_1980_storm_04.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 5,
+      "storm_label": "#06 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_1980_storm_06.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 6,
+      "storm_label": "#07 - CHARLEY",
+      "storm_name": "CHARLEY",
+      "image": "images/year_1980_storm_07.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 8,
+      "storm_label": "#09 - GEORGES",
+      "storm_name": "GEORGES",
+      "image": "images/year_1980_storm_09.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 9,
+      "storm_label": "#10 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_1980_storm_10.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 10,
+      "storm_label": "#11 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_1980_storm_11.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 11,
+      "storm_label": "#12 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_1980_storm_12.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 12,
+      "storm_label": "#13 - HERMINE",
+      "storm_name": "HERMINE",
+      "image": "images/year_1980_storm_13.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 13,
+      "storm_label": "#14 - IVAN",
+      "storm_name": "IVAN",
+      "image": "images/year_1980_storm_14.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 15,
+      "storm_label": "#16 - JEANNE",
+      "storm_name": "JEANNE",
+      "image": "images/year_1980_storm_16.png"
+    },
+    {
+      "year": 1980,
+      "storm_value": 17,
+      "storm_label": "#18 - KARL",
+      "storm_name": "KARL",
+      "image": "images/year_1980_storm_18.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1981_all_storms.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 2,
+      "storm_label": "#03 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1981_storm_03.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 5,
+      "storm_label": "#06 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_1981_storm_06.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 8,
+      "storm_label": "#09 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_1981_storm_09.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 9,
+      "storm_label": "#10 - DENNIS",
+      "storm_name": "DENNIS",
+      "image": "images/year_1981_storm_10.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 12,
+      "storm_label": "#13 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_1981_storm_13.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 13,
+      "storm_label": "#14 - FLOYD",
+      "storm_name": "FLOYD",
+      "image": "images/year_1981_storm_14.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 14,
+      "storm_label": "#15 - GERT",
+      "storm_name": "GERT",
+      "image": "images/year_1981_storm_15.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 15,
+      "storm_label": "#16 - HARVEY",
+      "storm_name": "HARVEY",
+      "image": "images/year_1981_storm_16.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 17,
+      "storm_label": "#18 - IRENE",
+      "storm_name": "IRENE",
+      "image": "images/year_1981_storm_18.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 19,
+      "storm_label": "#20 - JOSE",
+      "storm_name": "JOSE",
+      "image": "images/year_1981_storm_20.png"
+    },
+    {
+      "year": 1981,
+      "storm_value": 20,
+      "storm_label": "#21 - KATRINA",
+      "storm_name": "KATRINA",
+      "image": "images/year_1981_storm_21.png"
+    },
+    {
+      "year": 1982,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1982_all_storms.png"
+    },
+    {
+      "year": 1982,
+      "storm_value": 0,
+      "storm_label": "#01 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_1982_storm_01.png"
+    },
+    {
+      "year": 1982,
+      "storm_value": 2,
+      "storm_label": "#03 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_1982_storm_03.png"
+    },
+    {
+      "year": 1982,
+      "storm_value": 4,
+      "storm_label": "#05 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_1982_storm_05.png"
+    },
+    {
+      "year": 1982,
+      "storm_value": 5,
+      "storm_label": "#06 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_1982_storm_06.png"
+    },
+    {
+      "year": 1982,
+      "storm_value": 7,
+      "storm_label": "#08 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_1982_storm_08.png"
+    },
+    {
+      "year": 1983,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1983_all_storms.png"
+    },
+    {
+      "year": 1983,
+      "storm_value": 2,
+      "storm_label": "#03 - ALICIA",
+      "storm_name": "ALICIA",
+      "image": "images/year_1983_storm_03.png"
+    },
+    {
+      "year": 1983,
+      "storm_value": 3,
+      "storm_label": "#04 - BARRY",
+      "storm_name": "BARRY",
+      "image": "images/year_1983_storm_04.png"
+    },
+    {
+      "year": 1983,
+      "storm_value": 4,
+      "storm_label": "#05 - CHANTAL",
+      "storm_name": "CHANTAL",
+      "image": "images/year_1983_storm_05.png"
+    },
+    {
+      "year": 1983,
+      "storm_value": 5,
+      "storm_label": "#06 - DEAN",
+      "storm_name": "DEAN",
+      "image": "images/year_1983_storm_06.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1984_all_storms.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 5,
+      "storm_label": "#06 - ARTHUR",
+      "storm_name": "ARTHUR",
+      "image": "images/year_1984_storm_06.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 6,
+      "storm_label": "#07 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_1984_storm_07.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 7,
+      "storm_label": "#08 - CESAR",
+      "storm_name": "CESAR",
+      "image": "images/year_1984_storm_08.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 9,
+      "storm_label": "#10 - DIANA",
+      "storm_name": "DIANA",
+      "image": "images/year_1984_storm_10.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 10,
+      "storm_label": "#11 - EDOUARD",
+      "storm_name": "EDOUARD",
+      "image": "images/year_1984_storm_11.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 11,
+      "storm_label": "#12 - FRAN",
+      "storm_name": "FRAN",
+      "image": "images/year_1984_storm_12.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 12,
+      "storm_label": "#13 - GUSTAV",
+      "storm_name": "GUSTAV",
+      "image": "images/year_1984_storm_13.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 13,
+      "storm_label": "#14 - HORTENSE",
+      "storm_name": "HORTENSE",
+      "image": "images/year_1984_storm_14.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 14,
+      "storm_label": "#15 - ISIDORE",
+      "storm_name": "ISIDORE",
+      "image": "images/year_1984_storm_15.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 15,
+      "storm_label": "#16 - JOSEPHINE",
+      "storm_name": "JOSEPHINE",
+      "image": "images/year_1984_storm_16.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 17,
+      "storm_label": "#18 - KLAUS",
+      "storm_name": "KLAUS",
+      "image": "images/year_1984_storm_18.png"
+    },
+    {
+      "year": 1984,
+      "storm_value": 19,
+      "storm_label": "#20 - LILI",
+      "storm_name": "LILI",
+      "image": "images/year_1984_storm_20.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1985_all_storms.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 0,
+      "storm_label": "#01 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_1985_storm_01.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 1,
+      "storm_label": "#02 - BOB",
+      "storm_name": "BOB",
+      "image": "images/year_1985_storm_02.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 2,
+      "storm_label": "#03 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_1985_storm_03.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 3,
+      "storm_label": "#04 - DANNY",
+      "storm_name": "DANNY",
+      "image": "images/year_1985_storm_04.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 4,
+      "storm_label": "#05 - ELENA",
+      "storm_name": "ELENA",
+      "image": "images/year_1985_storm_05.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 7,
+      "storm_label": "#08 - FABIAN",
+      "storm_name": "FABIAN",
+      "image": "images/year_1985_storm_08.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 8,
+      "storm_label": "#09 - GLORIA",
+      "storm_name": "GLORIA",
+      "image": "images/year_1985_storm_09.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 9,
+      "storm_label": "#10 - HENRI",
+      "storm_name": "HENRI",
+      "image": "images/year_1985_storm_10.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 10,
+      "storm_label": "#11 - ISABEL",
+      "storm_name": "ISABEL",
+      "image": "images/year_1985_storm_11.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 11,
+      "storm_label": "#12 - JUAN",
+      "storm_name": "JUAN",
+      "image": "images/year_1985_storm_12.png"
+    },
+    {
+      "year": 1985,
+      "storm_value": 12,
+      "storm_label": "#13 - KATE",
+      "storm_name": "KATE",
+      "image": "images/year_1985_storm_13.png"
+    },
+    {
+      "year": 1986,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1986_all_storms.png"
+    },
+    {
+      "year": 1986,
+      "storm_value": 0,
+      "storm_label": "#01 - ANDREW",
+      "storm_name": "ANDREW",
+      "image": "images/year_1986_storm_01.png"
+    },
+    {
+      "year": 1986,
+      "storm_value": 1,
+      "storm_label": "#02 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_1986_storm_02.png"
+    },
+    {
+      "year": 1986,
+      "storm_value": 4,
+      "storm_label": "#05 - CHARLEY",
+      "storm_name": "CHARLEY",
+      "image": "images/year_1986_storm_05.png"
+    },
+    {
+      "year": 1986,
+      "storm_value": 7,
+      "storm_label": "#08 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_1986_storm_08.png"
+    },
+    {
+      "year": 1986,
+      "storm_value": 8,
+      "storm_label": "#09 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_1986_storm_09.png"
+    },
+    {
+      "year": 1986,
+      "storm_value": 9,
+      "storm_label": "#10 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_1986_storm_10.png"
+    },
+    {
+      "year": 1987,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1987_all_storms.png"
+    },
+    {
+      "year": 1987,
+      "storm_value": 1,
+      "storm_label": "#02 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1987_storm_02.png"
+    },
+    {
+      "year": 1987,
+      "storm_value": 4,
+      "storm_label": "#05 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_1987_storm_05.png"
+    },
+    {
+      "year": 1987,
+      "storm_value": 6,
+      "storm_label": "#07 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_1987_storm_07.png"
+    },
+    {
+      "year": 1987,
+      "storm_value": 9,
+      "storm_label": "#10 - DENNIS",
+      "storm_name": "DENNIS",
+      "image": "images/year_1987_storm_10.png"
+    },
+    {
+      "year": 1987,
+      "storm_value": 11,
+      "storm_label": "#12 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_1987_storm_12.png"
+    },
+    {
+      "year": 1987,
+      "storm_value": 12,
+      "storm_label": "#13 - FLOYD",
+      "storm_name": "FLOYD",
+      "image": "images/year_1987_storm_13.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1988_all_storms.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 0,
+      "storm_label": "#01 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_1988_storm_01.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 1,
+      "storm_label": "#02 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_1988_storm_02.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 2,
+      "storm_label": "#03 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_1988_storm_03.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 3,
+      "storm_label": "#04 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_1988_storm_04.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 4,
+      "storm_label": "#05 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_1988_storm_05.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 6,
+      "storm_label": "#07 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_1988_storm_07.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 7,
+      "storm_label": "#08 - GILBERT",
+      "storm_name": "GILBERT",
+      "image": "images/year_1988_storm_08.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 8,
+      "storm_label": "#09 - HELENE",
+      "storm_name": "HELENE",
+      "image": "images/year_1988_storm_09.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 9,
+      "storm_label": "#10 - ISAAC",
+      "storm_name": "ISAAC",
+      "image": "images/year_1988_storm_10.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 10,
+      "storm_label": "#11 - JOAN",
+      "storm_name": "JOAN",
+      "image": "images/year_1988_storm_11.png"
+    },
+    {
+      "year": 1988,
+      "storm_value": 11,
+      "storm_label": "#12 - KEITH",
+      "storm_name": "KEITH",
+      "image": "images/year_1988_storm_12.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1989_all_storms.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 1,
+      "storm_label": "#02 - ALLISON",
+      "storm_name": "ALLISON",
+      "image": "images/year_1989_storm_02.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 2,
+      "storm_label": "#03 - BARRY",
+      "storm_name": "BARRY",
+      "image": "images/year_1989_storm_03.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 3,
+      "storm_label": "#04 - CHANTAL",
+      "storm_name": "CHANTAL",
+      "image": "images/year_1989_storm_04.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 4,
+      "storm_label": "#05 - DEAN",
+      "storm_name": "DEAN",
+      "image": "images/year_1989_storm_05.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 6,
+      "storm_label": "#07 - ERIN",
+      "storm_name": "ERIN",
+      "image": "images/year_1989_storm_07.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 7,
+      "storm_label": "#08 - FELIX",
+      "storm_name": "FELIX",
+      "image": "images/year_1989_storm_08.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 9,
+      "storm_label": "#10 - GABRIELLE",
+      "storm_name": "GABRIELLE",
+      "image": "images/year_1989_storm_10.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 10,
+      "storm_label": "#11 - HUGO",
+      "storm_name": "HUGO",
+      "image": "images/year_1989_storm_11.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 11,
+      "storm_label": "#12 - IRIS",
+      "storm_name": "IRIS",
+      "image": "images/year_1989_storm_12.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 13,
+      "storm_label": "#14 - JERRY",
+      "storm_name": "JERRY",
+      "image": "images/year_1989_storm_14.png"
+    },
+    {
+      "year": 1989,
+      "storm_value": 14,
+      "storm_label": "#15 - KAREN",
+      "storm_name": "KAREN",
+      "image": "images/year_1989_storm_15.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1990_all_storms.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 1,
+      "storm_label": "#02 - ARTHUR",
+      "storm_name": "ARTHUR",
+      "image": "images/year_1990_storm_02.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 2,
+      "storm_label": "#03 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_1990_storm_03.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 3,
+      "storm_label": "#04 - CESAR",
+      "storm_name": "CESAR",
+      "image": "images/year_1990_storm_04.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 4,
+      "storm_label": "#05 - DIANA",
+      "storm_name": "DIANA",
+      "image": "images/year_1990_storm_05.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 5,
+      "storm_label": "#06 - EDOUARD",
+      "storm_name": "EDOUARD",
+      "image": "images/year_1990_storm_06.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 6,
+      "storm_label": "#07 - FRAN",
+      "storm_name": "FRAN",
+      "image": "images/year_1990_storm_07.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 7,
+      "storm_label": "#08 - GUSTAV",
+      "storm_name": "GUSTAV",
+      "image": "images/year_1990_storm_08.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 8,
+      "storm_label": "#09 - HORTENSE",
+      "storm_name": "HORTENSE",
+      "image": "images/year_1990_storm_09.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 9,
+      "storm_label": "#10 - ISIDORE",
+      "storm_name": "ISIDORE",
+      "image": "images/year_1990_storm_10.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 11,
+      "storm_label": "#12 - JOSEPHINE",
+      "storm_name": "JOSEPHINE",
+      "image": "images/year_1990_storm_12.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 12,
+      "storm_label": "#13 - KLAUS",
+      "storm_name": "KLAUS",
+      "image": "images/year_1990_storm_13.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 13,
+      "storm_label": "#14 - LILI",
+      "storm_name": "LILI",
+      "image": "images/year_1990_storm_14.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 14,
+      "storm_label": "#15 - MARCO",
+      "storm_name": "MARCO",
+      "image": "images/year_1990_storm_15.png"
+    },
+    {
+      "year": 1990,
+      "storm_value": 15,
+      "storm_label": "#16 - NANA",
+      "storm_name": "NANA",
+      "image": "images/year_1990_storm_16.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1991_all_storms.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": 0,
+      "storm_label": "#01 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_1991_storm_01.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": 2,
+      "storm_label": "#03 - BOB",
+      "storm_name": "BOB",
+      "image": "images/year_1991_storm_03.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": 5,
+      "storm_label": "#06 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_1991_storm_06.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": 6,
+      "storm_label": "#07 - DANNY",
+      "storm_name": "DANNY",
+      "image": "images/year_1991_storm_07.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": 7,
+      "storm_label": "#08 - ERIKA",
+      "storm_name": "ERIKA",
+      "image": "images/year_1991_storm_08.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": 8,
+      "storm_label": "#09 - FABIAN",
+      "storm_name": "FABIAN",
+      "image": "images/year_1991_storm_09.png"
+    },
+    {
+      "year": 1991,
+      "storm_value": 10,
+      "storm_label": "#11 - GRACE",
+      "storm_name": "GRACE",
+      "image": "images/year_1991_storm_11.png"
+    },
+    {
+      "year": 1992,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1992_all_storms.png"
+    },
+    {
+      "year": 1992,
+      "storm_value": 3,
+      "storm_label": "#04 - ANDREW",
+      "storm_name": "ANDREW",
+      "image": "images/year_1992_storm_04.png"
+    },
+    {
+      "year": 1992,
+      "storm_value": 4,
+      "storm_label": "#05 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_1992_storm_05.png"
+    },
+    {
+      "year": 1992,
+      "storm_value": 5,
+      "storm_label": "#06 - CHARLEY",
+      "storm_name": "CHARLEY",
+      "image": "images/year_1992_storm_06.png"
+    },
+    {
+      "year": 1992,
+      "storm_value": 6,
+      "storm_label": "#07 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_1992_storm_07.png"
+    },
+    {
+      "year": 1992,
+      "storm_value": 8,
+      "storm_label": "#09 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_1992_storm_09.png"
+    },
+    {
+      "year": 1992,
+      "storm_value": 9,
+      "storm_label": "#10 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_1992_storm_10.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1993_all_storms.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 1,
+      "storm_label": "#02 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1993_storm_02.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 2,
+      "storm_label": "#03 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_1993_storm_03.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 3,
+      "storm_label": "#04 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_1993_storm_04.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 4,
+      "storm_label": "#05 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_1993_storm_05.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 5,
+      "storm_label": "#06 - DENNIS",
+      "storm_name": "DENNIS",
+      "image": "images/year_1993_storm_06.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 6,
+      "storm_label": "#07 - FLOYD",
+      "storm_name": "FLOYD",
+      "image": "images/year_1993_storm_07.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 7,
+      "storm_label": "#08 - GERT",
+      "storm_name": "GERT",
+      "image": "images/year_1993_storm_08.png"
+    },
+    {
+      "year": 1993,
+      "storm_value": 8,
+      "storm_label": "#09 - HARVEY",
+      "storm_name": "HARVEY",
+      "image": "images/year_1993_storm_09.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1994_all_storms.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": 0,
+      "storm_label": "#01 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_1994_storm_01.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": 2,
+      "storm_label": "#03 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_1994_storm_03.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": 3,
+      "storm_label": "#04 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_1994_storm_04.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": 5,
+      "storm_label": "#06 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_1994_storm_06.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": 6,
+      "storm_label": "#07 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_1994_storm_07.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": 10,
+      "storm_label": "#11 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_1994_storm_11.png"
+    },
+    {
+      "year": 1994,
+      "storm_value": 11,
+      "storm_label": "#12 - GORDON",
+      "storm_name": "GORDON",
+      "image": "images/year_1994_storm_12.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1995_all_storms.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 0,
+      "storm_label": "#01 - ALLISON",
+      "storm_name": "ALLISON",
+      "image": "images/year_1995_storm_01.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 1,
+      "storm_label": "#02 - BARRY",
+      "storm_name": "BARRY",
+      "image": "images/year_1995_storm_02.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 2,
+      "storm_label": "#03 - CHANTAL",
+      "storm_name": "CHANTAL",
+      "image": "images/year_1995_storm_03.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 3,
+      "storm_label": "#04 - DEAN",
+      "storm_name": "DEAN",
+      "image": "images/year_1995_storm_04.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 4,
+      "storm_label": "#05 - ERIN",
+      "storm_name": "ERIN",
+      "image": "images/year_1995_storm_05.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 6,
+      "storm_label": "#07 - FELIX",
+      "storm_name": "FELIX",
+      "image": "images/year_1995_storm_07.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 7,
+      "storm_label": "#08 - GABRIELLE",
+      "storm_name": "GABRIELLE",
+      "image": "images/year_1995_storm_08.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 8,
+      "storm_label": "#09 - HUMBERTO",
+      "storm_name": "HUMBERTO",
+      "image": "images/year_1995_storm_09.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 9,
+      "storm_label": "#10 - IRIS",
+      "storm_name": "IRIS",
+      "image": "images/year_1995_storm_10.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 10,
+      "storm_label": "#11 - JERRY",
+      "storm_name": "JERRY",
+      "image": "images/year_1995_storm_11.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 11,
+      "storm_label": "#12 - KAREN",
+      "storm_name": "KAREN",
+      "image": "images/year_1995_storm_12.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 12,
+      "storm_label": "#13 - LUIS",
+      "storm_name": "LUIS",
+      "image": "images/year_1995_storm_13.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 14,
+      "storm_label": "#15 - MARILYN",
+      "storm_name": "MARILYN",
+      "image": "images/year_1995_storm_15.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 15,
+      "storm_label": "#16 - NOEL",
+      "storm_name": "NOEL",
+      "image": "images/year_1995_storm_16.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 16,
+      "storm_label": "#17 - OPAL",
+      "storm_name": "OPAL",
+      "image": "images/year_1995_storm_17.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 17,
+      "storm_label": "#18 - PABLO",
+      "storm_name": "PABLO",
+      "image": "images/year_1995_storm_18.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 18,
+      "storm_label": "#19 - ROXANNE",
+      "storm_name": "ROXANNE",
+      "image": "images/year_1995_storm_19.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 19,
+      "storm_label": "#20 - SEBASTIEN",
+      "storm_name": "SEBASTIEN",
+      "image": "images/year_1995_storm_20.png"
+    },
+    {
+      "year": 1995,
+      "storm_value": 20,
+      "storm_label": "#21 - TANYA",
+      "storm_name": "TANYA",
+      "image": "images/year_1995_storm_21.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1996_all_storms.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 0,
+      "storm_label": "#01 - ARTHUR",
+      "storm_name": "ARTHUR",
+      "image": "images/year_1996_storm_01.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 1,
+      "storm_label": "#02 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_1996_storm_02.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 2,
+      "storm_label": "#03 - CESAR",
+      "storm_name": "CESAR",
+      "image": "images/year_1996_storm_03.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 3,
+      "storm_label": "#04 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_1996_storm_04.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 4,
+      "storm_label": "#05 - EDOUARD",
+      "storm_name": "EDOUARD",
+      "image": "images/year_1996_storm_05.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 5,
+      "storm_label": "#06 - FRAN",
+      "storm_name": "FRAN",
+      "image": "images/year_1996_storm_06.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 6,
+      "storm_label": "#07 - GUSTAV",
+      "storm_name": "GUSTAV",
+      "image": "images/year_1996_storm_07.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 7,
+      "storm_label": "#08 - HORTENSE",
+      "storm_name": "HORTENSE",
+      "image": "images/year_1996_storm_08.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 8,
+      "storm_label": "#09 - ISIDORE",
+      "storm_name": "ISIDORE",
+      "image": "images/year_1996_storm_09.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 9,
+      "storm_label": "#10 - JOSEPHINE",
+      "storm_name": "JOSEPHINE",
+      "image": "images/year_1996_storm_10.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 10,
+      "storm_label": "#11 - KYLE",
+      "storm_name": "KYLE",
+      "image": "images/year_1996_storm_11.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 11,
+      "storm_label": "#12 - LILI",
+      "storm_name": "LILI",
+      "image": "images/year_1996_storm_12.png"
+    },
+    {
+      "year": 1996,
+      "storm_value": 12,
+      "storm_label": "#13 - MARCO",
+      "storm_name": "MARCO",
+      "image": "images/year_1996_storm_13.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1997_all_storms.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": 1,
+      "storm_label": "#02 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_1997_storm_02.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": 2,
+      "storm_label": "#03 - BILL",
+      "storm_name": "BILL",
+      "image": "images/year_1997_storm_03.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": 3,
+      "storm_label": "#04 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_1997_storm_04.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": 4,
+      "storm_label": "#05 - DANNY",
+      "storm_name": "DANNY",
+      "image": "images/year_1997_storm_05.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": 6,
+      "storm_label": "#07 - ERIKA",
+      "storm_name": "ERIKA",
+      "image": "images/year_1997_storm_07.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": 7,
+      "storm_label": "#08 - FABIAN",
+      "storm_name": "FABIAN",
+      "image": "images/year_1997_storm_08.png"
+    },
+    {
+      "year": 1997,
+      "storm_value": 8,
+      "storm_label": "#09 - GRACE",
+      "storm_name": "GRACE",
+      "image": "images/year_1997_storm_09.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1998_all_storms.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 0,
+      "storm_label": "#01 - ALEX",
+      "storm_name": "ALEX",
+      "image": "images/year_1998_storm_01.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 1,
+      "storm_label": "#02 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_1998_storm_02.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 2,
+      "storm_label": "#03 - CHARLEY",
+      "storm_name": "CHARLEY",
+      "image": "images/year_1998_storm_03.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 3,
+      "storm_label": "#04 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_1998_storm_04.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 4,
+      "storm_label": "#05 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_1998_storm_05.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 5,
+      "storm_label": "#06 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_1998_storm_06.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 6,
+      "storm_label": "#07 - GEORGES",
+      "storm_name": "GEORGES",
+      "image": "images/year_1998_storm_07.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 7,
+      "storm_label": "#08 - HERMINE",
+      "storm_name": "HERMINE",
+      "image": "images/year_1998_storm_08.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 8,
+      "storm_label": "#09 - IVAN",
+      "storm_name": "IVAN",
+      "image": "images/year_1998_storm_09.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 9,
+      "storm_label": "#10 - JEANNE",
+      "storm_name": "JEANNE",
+      "image": "images/year_1998_storm_10.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 10,
+      "storm_label": "#11 - KARL",
+      "storm_name": "KARL",
+      "image": "images/year_1998_storm_11.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 11,
+      "storm_label": "#12 - LISA",
+      "storm_name": "LISA",
+      "image": "images/year_1998_storm_12.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 12,
+      "storm_label": "#13 - MITCH",
+      "storm_name": "MITCH",
+      "image": "images/year_1998_storm_13.png"
+    },
+    {
+      "year": 1998,
+      "storm_value": 13,
+      "storm_label": "#14 - NICOLE",
+      "storm_name": "NICOLE",
+      "image": "images/year_1998_storm_14.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_1999_all_storms.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 0,
+      "storm_label": "#01 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_1999_storm_01.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 2,
+      "storm_label": "#03 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_1999_storm_03.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 3,
+      "storm_label": "#04 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_1999_storm_04.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 4,
+      "storm_label": "#05 - DENNIS",
+      "storm_name": "DENNIS",
+      "image": "images/year_1999_storm_05.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 5,
+      "storm_label": "#06 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_1999_storm_06.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 7,
+      "storm_label": "#08 - FLOYD",
+      "storm_name": "FLOYD",
+      "image": "images/year_1999_storm_08.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 8,
+      "storm_label": "#09 - GERT",
+      "storm_name": "GERT",
+      "image": "images/year_1999_storm_09.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 9,
+      "storm_label": "#10 - HARVEY",
+      "storm_name": "HARVEY",
+      "image": "images/year_1999_storm_10.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 12,
+      "storm_label": "#13 - IRENE",
+      "storm_name": "IRENE",
+      "image": "images/year_1999_storm_13.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 13,
+      "storm_label": "#14 - JOSE",
+      "storm_name": "JOSE",
+      "image": "images/year_1999_storm_14.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 14,
+      "storm_label": "#15 - KATRINA",
+      "storm_name": "KATRINA",
+      "image": "images/year_1999_storm_15.png"
+    },
+    {
+      "year": 1999,
+      "storm_value": 15,
+      "storm_label": "#16 - LENNY",
+      "storm_name": "LENNY",
+      "image": "images/year_1999_storm_16.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2000_all_storms.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 2,
+      "storm_label": "#03 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_2000_storm_03.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 4,
+      "storm_label": "#05 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_2000_storm_05.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 5,
+      "storm_label": "#06 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_2000_storm_06.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 6,
+      "storm_label": "#07 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_2000_storm_07.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 7,
+      "storm_label": "#08 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_2000_storm_08.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 9,
+      "storm_label": "#10 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_2000_storm_10.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 10,
+      "storm_label": "#11 - GORDON",
+      "storm_name": "GORDON",
+      "image": "images/year_2000_storm_11.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 11,
+      "storm_label": "#12 - HELENE",
+      "storm_name": "HELENE",
+      "image": "images/year_2000_storm_12.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 12,
+      "storm_label": "#13 - ISAAC",
+      "storm_name": "ISAAC",
+      "image": "images/year_2000_storm_13.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 13,
+      "storm_label": "#14 - JOYCE",
+      "storm_name": "JOYCE",
+      "image": "images/year_2000_storm_14.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 14,
+      "storm_label": "#15 - KEITH",
+      "storm_name": "KEITH",
+      "image": "images/year_2000_storm_15.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 15,
+      "storm_label": "#16 - LESLIE",
+      "storm_name": "LESLIE",
+      "image": "images/year_2000_storm_16.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 16,
+      "storm_label": "#17 - MICHAEL",
+      "storm_name": "MICHAEL",
+      "image": "images/year_2000_storm_17.png"
+    },
+    {
+      "year": 2000,
+      "storm_value": 17,
+      "storm_label": "#18 - NADINE",
+      "storm_name": "NADINE",
+      "image": "images/year_2000_storm_18.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2001_all_storms.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 0,
+      "storm_label": "#01 - ALLISON",
+      "storm_name": "ALLISON",
+      "image": "images/year_2001_storm_01.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 2,
+      "storm_label": "#03 - BARRY",
+      "storm_name": "BARRY",
+      "image": "images/year_2001_storm_03.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 3,
+      "storm_label": "#04 - CHANTAL",
+      "storm_name": "CHANTAL",
+      "image": "images/year_2001_storm_04.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 4,
+      "storm_label": "#05 - DEAN",
+      "storm_name": "DEAN",
+      "image": "images/year_2001_storm_05.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 5,
+      "storm_label": "#06 - ERIN",
+      "storm_name": "ERIN",
+      "image": "images/year_2001_storm_06.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 6,
+      "storm_label": "#07 - FELIX",
+      "storm_name": "FELIX",
+      "image": "images/year_2001_storm_07.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 7,
+      "storm_label": "#08 - GABRIELLE",
+      "storm_name": "GABRIELLE",
+      "image": "images/year_2001_storm_08.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 9,
+      "storm_label": "#10 - HUMBERTO",
+      "storm_name": "HUMBERTO",
+      "image": "images/year_2001_storm_10.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 10,
+      "storm_label": "#11 - IRIS",
+      "storm_name": "IRIS",
+      "image": "images/year_2001_storm_11.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 11,
+      "storm_label": "#12 - JERRY",
+      "storm_name": "JERRY",
+      "image": "images/year_2001_storm_12.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 12,
+      "storm_label": "#13 - KAREN",
+      "storm_name": "KAREN",
+      "image": "images/year_2001_storm_13.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 13,
+      "storm_label": "#14 - LORENZO",
+      "storm_name": "LORENZO",
+      "image": "images/year_2001_storm_14.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 14,
+      "storm_label": "#15 - MICHELLE",
+      "storm_name": "MICHELLE",
+      "image": "images/year_2001_storm_15.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 15,
+      "storm_label": "#16 - NOEL",
+      "storm_name": "NOEL",
+      "image": "images/year_2001_storm_16.png"
+    },
+    {
+      "year": 2001,
+      "storm_value": 16,
+      "storm_label": "#17 - OLGA",
+      "storm_name": "OLGA",
+      "image": "images/year_2001_storm_17.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2002_all_storms.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 0,
+      "storm_label": "#01 - ARTHUR",
+      "storm_name": "ARTHUR",
+      "image": "images/year_2002_storm_01.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 1,
+      "storm_label": "#02 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_2002_storm_02.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 2,
+      "storm_label": "#03 - CRISTOBAL",
+      "storm_name": "CRISTOBAL",
+      "image": "images/year_2002_storm_03.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 3,
+      "storm_label": "#04 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_2002_storm_04.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 4,
+      "storm_label": "#05 - EDOUARD",
+      "storm_name": "EDOUARD",
+      "image": "images/year_2002_storm_05.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 5,
+      "storm_label": "#06 - FAY",
+      "storm_name": "FAY",
+      "image": "images/year_2002_storm_06.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 7,
+      "storm_label": "#08 - GUSTAV",
+      "storm_name": "GUSTAV",
+      "image": "images/year_2002_storm_08.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 8,
+      "storm_label": "#09 - HANNA",
+      "storm_name": "HANNA",
+      "image": "images/year_2002_storm_09.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 9,
+      "storm_label": "#10 - ISIDORE",
+      "storm_name": "ISIDORE",
+      "image": "images/year_2002_storm_10.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 10,
+      "storm_label": "#11 - JOSEPHINE",
+      "storm_name": "JOSEPHINE",
+      "image": "images/year_2002_storm_11.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 11,
+      "storm_label": "#12 - KYLE",
+      "storm_name": "KYLE",
+      "image": "images/year_2002_storm_12.png"
+    },
+    {
+      "year": 2002,
+      "storm_value": 12,
+      "storm_label": "#13 - LILI",
+      "storm_name": "LILI",
+      "image": "images/year_2002_storm_13.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2003_all_storms.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 0,
+      "storm_label": "#01 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_2003_storm_01.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 2,
+      "storm_label": "#03 - BILL",
+      "storm_name": "BILL",
+      "image": "images/year_2003_storm_03.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 3,
+      "storm_label": "#04 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_2003_storm_04.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 4,
+      "storm_label": "#05 - DANNY",
+      "storm_name": "DANNY",
+      "image": "images/year_2003_storm_05.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 7,
+      "storm_label": "#08 - ERIKA",
+      "storm_name": "ERIKA",
+      "image": "images/year_2003_storm_08.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 9,
+      "storm_label": "#10 - FABIAN",
+      "storm_name": "FABIAN",
+      "image": "images/year_2003_storm_10.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 10,
+      "storm_label": "#11 - GRACE",
+      "storm_name": "GRACE",
+      "image": "images/year_2003_storm_11.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 11,
+      "storm_label": "#12 - HENRI",
+      "storm_name": "HENRI",
+      "image": "images/year_2003_storm_12.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 12,
+      "storm_label": "#13 - ISABEL",
+      "storm_name": "ISABEL",
+      "image": "images/year_2003_storm_13.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 14,
+      "storm_label": "#15 - JUAN",
+      "storm_name": "JUAN",
+      "image": "images/year_2003_storm_15.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 15,
+      "storm_label": "#16 - KATE",
+      "storm_name": "KATE",
+      "image": "images/year_2003_storm_16.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 16,
+      "storm_label": "#17 - LARRY",
+      "storm_name": "LARRY",
+      "image": "images/year_2003_storm_17.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 17,
+      "storm_label": "#18 - MINDY",
+      "storm_name": "MINDY",
+      "image": "images/year_2003_storm_18.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 18,
+      "storm_label": "#19 - NICHOLAS",
+      "storm_name": "NICHOLAS",
+      "image": "images/year_2003_storm_19.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 19,
+      "storm_label": "#20 - ODETTE",
+      "storm_name": "ODETTE",
+      "image": "images/year_2003_storm_20.png"
+    },
+    {
+      "year": 2003,
+      "storm_value": 20,
+      "storm_label": "#21 - PETER",
+      "storm_name": "PETER",
+      "image": "images/year_2003_storm_21.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2004_all_storms.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 0,
+      "storm_label": "#01 - ALEX",
+      "storm_name": "ALEX",
+      "image": "images/year_2004_storm_01.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 1,
+      "storm_label": "#02 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_2004_storm_02.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 2,
+      "storm_label": "#03 - CHARLEY",
+      "storm_name": "CHARLEY",
+      "image": "images/year_2004_storm_03.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 3,
+      "storm_label": "#04 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_2004_storm_04.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 4,
+      "storm_label": "#05 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_2004_storm_05.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 5,
+      "storm_label": "#06 - FRANCES",
+      "storm_name": "FRANCES",
+      "image": "images/year_2004_storm_06.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 6,
+      "storm_label": "#07 - GASTON",
+      "storm_name": "GASTON",
+      "image": "images/year_2004_storm_07.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 7,
+      "storm_label": "#08 - HERMINE",
+      "storm_name": "HERMINE",
+      "image": "images/year_2004_storm_08.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 8,
+      "storm_label": "#09 - IVAN",
+      "storm_name": "IVAN",
+      "image": "images/year_2004_storm_09.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 10,
+      "storm_label": "#11 - JEANNE",
+      "storm_name": "JEANNE",
+      "image": "images/year_2004_storm_11.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 11,
+      "storm_label": "#12 - KARL",
+      "storm_name": "KARL",
+      "image": "images/year_2004_storm_12.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 12,
+      "storm_label": "#13 - LISA",
+      "storm_name": "LISA",
+      "image": "images/year_2004_storm_13.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 13,
+      "storm_label": "#14 - MATTHEW",
+      "storm_name": "MATTHEW",
+      "image": "images/year_2004_storm_14.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 14,
+      "storm_label": "#15 - NICOLE",
+      "storm_name": "NICOLE",
+      "image": "images/year_2004_storm_15.png"
+    },
+    {
+      "year": 2004,
+      "storm_value": 15,
+      "storm_label": "#16 - OTTO",
+      "storm_name": "OTTO",
+      "image": "images/year_2004_storm_16.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2005_all_storms.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 0,
+      "storm_label": "#01 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_2005_storm_01.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 1,
+      "storm_label": "#02 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_2005_storm_02.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 2,
+      "storm_label": "#03 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_2005_storm_03.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 3,
+      "storm_label": "#04 - DENNIS",
+      "storm_name": "DENNIS",
+      "image": "images/year_2005_storm_04.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 4,
+      "storm_label": "#05 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_2005_storm_05.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 5,
+      "storm_label": "#06 - FRANKLIN",
+      "storm_name": "FRANKLIN",
+      "image": "images/year_2005_storm_06.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 6,
+      "storm_label": "#07 - GERT",
+      "storm_name": "GERT",
+      "image": "images/year_2005_storm_07.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 7,
+      "storm_label": "#08 - HARVEY",
+      "storm_name": "HARVEY",
+      "image": "images/year_2005_storm_08.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 8,
+      "storm_label": "#09 - IRENE",
+      "storm_name": "IRENE",
+      "image": "images/year_2005_storm_09.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 9,
+      "storm_label": "#10 - TEN",
+      "storm_name": "TEN",
+      "image": "images/year_2005_storm_10.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 10,
+      "storm_label": "#11 - JOSE",
+      "storm_name": "JOSE",
+      "image": "images/year_2005_storm_11.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 11,
+      "storm_label": "#12 - KATRINA",
+      "storm_name": "KATRINA",
+      "image": "images/year_2005_storm_12.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 12,
+      "storm_label": "#13 - LEE",
+      "storm_name": "LEE",
+      "image": "images/year_2005_storm_13.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 13,
+      "storm_label": "#14 - MARIA",
+      "storm_name": "MARIA",
+      "image": "images/year_2005_storm_14.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 14,
+      "storm_label": "#15 - NATE",
+      "storm_name": "NATE",
+      "image": "images/year_2005_storm_15.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 15,
+      "storm_label": "#16 - OPHELIA",
+      "storm_name": "OPHELIA",
+      "image": "images/year_2005_storm_16.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 16,
+      "storm_label": "#17 - PHILIPPE",
+      "storm_name": "PHILIPPE",
+      "image": "images/year_2005_storm_17.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 17,
+      "storm_label": "#18 - RITA",
+      "storm_name": "RITA",
+      "image": "images/year_2005_storm_18.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 18,
+      "storm_label": "#19 - NINETEEN",
+      "storm_name": "NINETEEN",
+      "image": "images/year_2005_storm_19.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 19,
+      "storm_label": "#20 - STAN",
+      "storm_name": "STAN",
+      "image": "images/year_2005_storm_20.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 21,
+      "storm_label": "#22 - TAMMY",
+      "storm_name": "TAMMY",
+      "image": "images/year_2005_storm_22.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 22,
+      "storm_label": "#23 - TWENTY-TWO",
+      "storm_name": "TWENTY-TWO",
+      "image": "images/year_2005_storm_23.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 23,
+      "storm_label": "#24 - VINCE",
+      "storm_name": "VINCE",
+      "image": "images/year_2005_storm_24.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 24,
+      "storm_label": "#25 - WILMA",
+      "storm_name": "WILMA",
+      "image": "images/year_2005_storm_25.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 25,
+      "storm_label": "#26 - ALPHA",
+      "storm_name": "ALPHA",
+      "image": "images/year_2005_storm_26.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 26,
+      "storm_label": "#27 - BETA",
+      "storm_name": "BETA",
+      "image": "images/year_2005_storm_27.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 27,
+      "storm_label": "#28 - GAMMA",
+      "storm_name": "GAMMA",
+      "image": "images/year_2005_storm_28.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 28,
+      "storm_label": "#29 - DELTA",
+      "storm_name": "DELTA",
+      "image": "images/year_2005_storm_29.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 29,
+      "storm_label": "#30 - EPSILON",
+      "storm_name": "EPSILON",
+      "image": "images/year_2005_storm_30.png"
+    },
+    {
+      "year": 2005,
+      "storm_value": 30,
+      "storm_label": "#31 - ZETA",
+      "storm_name": "ZETA",
+      "image": "images/year_2005_storm_31.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2006_all_storms.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 0,
+      "storm_label": "#01 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_2006_storm_01.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 2,
+      "storm_label": "#03 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_2006_storm_03.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 3,
+      "storm_label": "#04 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_2006_storm_04.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 4,
+      "storm_label": "#05 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_2006_storm_05.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 5,
+      "storm_label": "#06 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_2006_storm_06.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 6,
+      "storm_label": "#07 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_2006_storm_07.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 7,
+      "storm_label": "#08 - GORDON",
+      "storm_name": "GORDON",
+      "image": "images/year_2006_storm_08.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 8,
+      "storm_label": "#09 - HELENE",
+      "storm_name": "HELENE",
+      "image": "images/year_2006_storm_09.png"
+    },
+    {
+      "year": 2006,
+      "storm_value": 9,
+      "storm_label": "#10 - ISAAC",
+      "storm_name": "ISAAC",
+      "image": "images/year_2006_storm_10.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2007_all_storms.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 0,
+      "storm_label": "#01 - ANDREA",
+      "storm_name": "ANDREA",
+      "image": "images/year_2007_storm_01.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 1,
+      "storm_label": "#02 - BARRY",
+      "storm_name": "BARRY",
+      "image": "images/year_2007_storm_02.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 2,
+      "storm_label": "#03 - CHANTAL",
+      "storm_name": "CHANTAL",
+      "image": "images/year_2007_storm_03.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 3,
+      "storm_label": "#04 - DEAN",
+      "storm_name": "DEAN",
+      "image": "images/year_2007_storm_04.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 4,
+      "storm_label": "#05 - ERIN",
+      "storm_name": "ERIN",
+      "image": "images/year_2007_storm_05.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 5,
+      "storm_label": "#06 - FELIX",
+      "storm_name": "FELIX",
+      "image": "images/year_2007_storm_06.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 6,
+      "storm_label": "#07 - GABRIELLE",
+      "storm_name": "GABRIELLE",
+      "image": "images/year_2007_storm_07.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 7,
+      "storm_label": "#08 - INGRID",
+      "storm_name": "INGRID",
+      "image": "images/year_2007_storm_08.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 8,
+      "storm_label": "#09 - HUMBERTO",
+      "storm_name": "HUMBERTO",
+      "image": "images/year_2007_storm_09.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 9,
+      "storm_label": "#10 - TEN",
+      "storm_name": "TEN",
+      "image": "images/year_2007_storm_10.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 10,
+      "storm_label": "#11 - JERRY",
+      "storm_name": "JERRY",
+      "image": "images/year_2007_storm_11.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 11,
+      "storm_label": "#12 - KAREN",
+      "storm_name": "KAREN",
+      "image": "images/year_2007_storm_12.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 12,
+      "storm_label": "#13 - LORENZO",
+      "storm_name": "LORENZO",
+      "image": "images/year_2007_storm_13.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 13,
+      "storm_label": "#14 - MELISSA",
+      "storm_name": "MELISSA",
+      "image": "images/year_2007_storm_14.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 14,
+      "storm_label": "#15 - FIFTEEN",
+      "storm_name": "FIFTEEN",
+      "image": "images/year_2007_storm_15.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 15,
+      "storm_label": "#16 - NOEL",
+      "storm_name": "NOEL",
+      "image": "images/year_2007_storm_16.png"
+    },
+    {
+      "year": 2007,
+      "storm_value": 16,
+      "storm_label": "#17 - OLGA",
+      "storm_name": "OLGA",
+      "image": "images/year_2007_storm_17.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2008_all_storms.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 0,
+      "storm_label": "#01 - ARTHUR",
+      "storm_name": "ARTHUR",
+      "image": "images/year_2008_storm_01.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 1,
+      "storm_label": "#02 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_2008_storm_02.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 2,
+      "storm_label": "#03 - CRISTOBAL",
+      "storm_name": "CRISTOBAL",
+      "image": "images/year_2008_storm_03.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 3,
+      "storm_label": "#04 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_2008_storm_04.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 4,
+      "storm_label": "#05 - EDOUARD",
+      "storm_name": "EDOUARD",
+      "image": "images/year_2008_storm_05.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 5,
+      "storm_label": "#06 - FAY",
+      "storm_name": "FAY",
+      "image": "images/year_2008_storm_06.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 6,
+      "storm_label": "#07 - GUSTAV",
+      "storm_name": "GUSTAV",
+      "image": "images/year_2008_storm_07.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 7,
+      "storm_label": "#08 - HANNA",
+      "storm_name": "HANNA",
+      "image": "images/year_2008_storm_08.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 8,
+      "storm_label": "#09 - IKE",
+      "storm_name": "IKE",
+      "image": "images/year_2008_storm_09.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 9,
+      "storm_label": "#10 - JOSEPHINE",
+      "storm_name": "JOSEPHINE",
+      "image": "images/year_2008_storm_10.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 10,
+      "storm_label": "#11 - KYLE",
+      "storm_name": "KYLE",
+      "image": "images/year_2008_storm_11.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 11,
+      "storm_label": "#12 - LAURA",
+      "storm_name": "LAURA",
+      "image": "images/year_2008_storm_12.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 12,
+      "storm_label": "#13 - MARCO",
+      "storm_name": "MARCO",
+      "image": "images/year_2008_storm_13.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 13,
+      "storm_label": "#14 - NANA",
+      "storm_name": "NANA",
+      "image": "images/year_2008_storm_14.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 14,
+      "storm_label": "#15 - OMAR",
+      "storm_name": "OMAR",
+      "image": "images/year_2008_storm_15.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 15,
+      "storm_label": "#16 - SIXTEEN",
+      "storm_name": "SIXTEEN",
+      "image": "images/year_2008_storm_16.png"
+    },
+    {
+      "year": 2008,
+      "storm_value": 16,
+      "storm_label": "#17 - PALOMA",
+      "storm_name": "PALOMA",
+      "image": "images/year_2008_storm_17.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2009_all_storms.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 0,
+      "storm_label": "#01 - ONE",
+      "storm_name": "ONE",
+      "image": "images/year_2009_storm_01.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 1,
+      "storm_label": "#02 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_2009_storm_02.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 2,
+      "storm_label": "#03 - BILL",
+      "storm_name": "BILL",
+      "image": "images/year_2009_storm_03.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 3,
+      "storm_label": "#04 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_2009_storm_04.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 4,
+      "storm_label": "#05 - DANNY",
+      "storm_name": "DANNY",
+      "image": "images/year_2009_storm_05.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 5,
+      "storm_label": "#06 - ERIKA",
+      "storm_name": "ERIKA",
+      "image": "images/year_2009_storm_06.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 6,
+      "storm_label": "#07 - FRED",
+      "storm_name": "FRED",
+      "image": "images/year_2009_storm_07.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 7,
+      "storm_label": "#08 - EIGHT",
+      "storm_name": "EIGHT",
+      "image": "images/year_2009_storm_08.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 8,
+      "storm_label": "#09 - GRACE",
+      "storm_name": "GRACE",
+      "image": "images/year_2009_storm_09.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 9,
+      "storm_label": "#10 - HENRI",
+      "storm_name": "HENRI",
+      "image": "images/year_2009_storm_10.png"
+    },
+    {
+      "year": 2009,
+      "storm_value": 10,
+      "storm_label": "#11 - IDA",
+      "storm_name": "IDA",
+      "image": "images/year_2009_storm_11.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2010_all_storms.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 0,
+      "storm_label": "#01 - ALEX",
+      "storm_name": "ALEX",
+      "image": "images/year_2010_storm_01.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 1,
+      "storm_label": "#02 - TWO",
+      "storm_name": "TWO",
+      "image": "images/year_2010_storm_02.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 2,
+      "storm_label": "#03 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_2010_storm_03.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 3,
+      "storm_label": "#04 - COLIN",
+      "storm_name": "COLIN",
+      "image": "images/year_2010_storm_04.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 4,
+      "storm_label": "#05 - FIVE",
+      "storm_name": "FIVE",
+      "image": "images/year_2010_storm_05.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 5,
+      "storm_label": "#06 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_2010_storm_06.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 6,
+      "storm_label": "#07 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_2010_storm_07.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 7,
+      "storm_label": "#08 - FIONA",
+      "storm_name": "FIONA",
+      "image": "images/year_2010_storm_08.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 8,
+      "storm_label": "#09 - GASTON",
+      "storm_name": "GASTON",
+      "image": "images/year_2010_storm_09.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 9,
+      "storm_label": "#10 - HERMINE",
+      "storm_name": "HERMINE",
+      "image": "images/year_2010_storm_10.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 10,
+      "storm_label": "#11 - IGOR",
+      "storm_name": "IGOR",
+      "image": "images/year_2010_storm_11.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 11,
+      "storm_label": "#12 - JULIA",
+      "storm_name": "JULIA",
+      "image": "images/year_2010_storm_12.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 12,
+      "storm_label": "#13 - KARL",
+      "storm_name": "KARL",
+      "image": "images/year_2010_storm_13.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 13,
+      "storm_label": "#14 - LISA",
+      "storm_name": "LISA",
+      "image": "images/year_2010_storm_14.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 14,
+      "storm_label": "#15 - MATTHEW",
+      "storm_name": "MATTHEW",
+      "image": "images/year_2010_storm_15.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 15,
+      "storm_label": "#16 - NICOLE",
+      "storm_name": "NICOLE",
+      "image": "images/year_2010_storm_16.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 16,
+      "storm_label": "#17 - OTTO",
+      "storm_name": "OTTO",
+      "image": "images/year_2010_storm_17.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 17,
+      "storm_label": "#18 - PAULA",
+      "storm_name": "PAULA",
+      "image": "images/year_2010_storm_18.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 18,
+      "storm_label": "#19 - RICHARD",
+      "storm_name": "RICHARD",
+      "image": "images/year_2010_storm_19.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 19,
+      "storm_label": "#20 - SHARY",
+      "storm_name": "SHARY",
+      "image": "images/year_2010_storm_20.png"
+    },
+    {
+      "year": 2010,
+      "storm_value": 20,
+      "storm_label": "#21 - TOMAS",
+      "storm_name": "TOMAS",
+      "image": "images/year_2010_storm_21.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2011_all_storms.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 0,
+      "storm_label": "#01 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_2011_storm_01.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 1,
+      "storm_label": "#02 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_2011_storm_02.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 2,
+      "storm_label": "#03 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_2011_storm_03.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 3,
+      "storm_label": "#04 - DON",
+      "storm_name": "DON",
+      "image": "images/year_2011_storm_04.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 4,
+      "storm_label": "#05 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_2011_storm_05.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 5,
+      "storm_label": "#06 - FRANKLIN",
+      "storm_name": "FRANKLIN",
+      "image": "images/year_2011_storm_06.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 6,
+      "storm_label": "#07 - GERT",
+      "storm_name": "GERT",
+      "image": "images/year_2011_storm_07.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 7,
+      "storm_label": "#08 - HARVEY",
+      "storm_name": "HARVEY",
+      "image": "images/year_2011_storm_08.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 8,
+      "storm_label": "#09 - IRENE",
+      "storm_name": "IRENE",
+      "image": "images/year_2011_storm_09.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 9,
+      "storm_label": "#10 - TEN",
+      "storm_name": "TEN",
+      "image": "images/year_2011_storm_10.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 10,
+      "storm_label": "#11 - JOSE",
+      "storm_name": "JOSE",
+      "image": "images/year_2011_storm_11.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 11,
+      "storm_label": "#12 - KATIA",
+      "storm_name": "KATIA",
+      "image": "images/year_2011_storm_12.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 12,
+      "storm_label": "#13 - LEE",
+      "storm_name": "LEE",
+      "image": "images/year_2011_storm_13.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 13,
+      "storm_label": "#14 - MARIA",
+      "storm_name": "MARIA",
+      "image": "images/year_2011_storm_14.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 14,
+      "storm_label": "#15 - NATE",
+      "storm_name": "NATE",
+      "image": "images/year_2011_storm_15.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 15,
+      "storm_label": "#16 - OPHELIA",
+      "storm_name": "OPHELIA",
+      "image": "images/year_2011_storm_16.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 16,
+      "storm_label": "#17 - PHILIPPE",
+      "storm_name": "PHILIPPE",
+      "image": "images/year_2011_storm_17.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 17,
+      "storm_label": "#18 - RINA",
+      "storm_name": "RINA",
+      "image": "images/year_2011_storm_18.png"
+    },
+    {
+      "year": 2011,
+      "storm_value": 18,
+      "storm_label": "#19 - SEAN",
+      "storm_name": "SEAN",
+      "image": "images/year_2011_storm_19.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2012_all_storms.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 0,
+      "storm_label": "#01 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_2012_storm_01.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 1,
+      "storm_label": "#02 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_2012_storm_02.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 2,
+      "storm_label": "#03 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_2012_storm_03.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 3,
+      "storm_label": "#04 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_2012_storm_04.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 4,
+      "storm_label": "#05 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_2012_storm_05.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 5,
+      "storm_label": "#06 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_2012_storm_06.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 6,
+      "storm_label": "#07 - HELENE",
+      "storm_name": "HELENE",
+      "image": "images/year_2012_storm_07.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 7,
+      "storm_label": "#08 - GORDON",
+      "storm_name": "GORDON",
+      "image": "images/year_2012_storm_08.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 8,
+      "storm_label": "#09 - ISAAC",
+      "storm_name": "ISAAC",
+      "image": "images/year_2012_storm_09.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 9,
+      "storm_label": "#10 - JOYCE",
+      "storm_name": "JOYCE",
+      "image": "images/year_2012_storm_10.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 10,
+      "storm_label": "#11 - KIRK",
+      "storm_name": "KIRK",
+      "image": "images/year_2012_storm_11.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 11,
+      "storm_label": "#12 - LESLIE",
+      "storm_name": "LESLIE",
+      "image": "images/year_2012_storm_12.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 12,
+      "storm_label": "#13 - MICHAEL",
+      "storm_name": "MICHAEL",
+      "image": "images/year_2012_storm_13.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 13,
+      "storm_label": "#14 - NADINE",
+      "storm_name": "NADINE",
+      "image": "images/year_2012_storm_14.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 14,
+      "storm_label": "#15 - OSCAR",
+      "storm_name": "OSCAR",
+      "image": "images/year_2012_storm_15.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 15,
+      "storm_label": "#16 - PATTY",
+      "storm_name": "PATTY",
+      "image": "images/year_2012_storm_16.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 16,
+      "storm_label": "#17 - RAFAEL",
+      "storm_name": "RAFAEL",
+      "image": "images/year_2012_storm_17.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 17,
+      "storm_label": "#18 - SANDY",
+      "storm_name": "SANDY",
+      "image": "images/year_2012_storm_18.png"
+    },
+    {
+      "year": 2012,
+      "storm_value": 18,
+      "storm_label": "#19 - TONY",
+      "storm_name": "TONY",
+      "image": "images/year_2012_storm_19.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2013_all_storms.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 0,
+      "storm_label": "#01 - ANDREA",
+      "storm_name": "ANDREA",
+      "image": "images/year_2013_storm_01.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 1,
+      "storm_label": "#02 - BARRY",
+      "storm_name": "BARRY",
+      "image": "images/year_2013_storm_02.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 2,
+      "storm_label": "#03 - CHANTAL",
+      "storm_name": "CHANTAL",
+      "image": "images/year_2013_storm_03.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 3,
+      "storm_label": "#04 - DORIAN",
+      "storm_name": "DORIAN",
+      "image": "images/year_2013_storm_04.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 4,
+      "storm_label": "#05 - ERIN",
+      "storm_name": "ERIN",
+      "image": "images/year_2013_storm_05.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 5,
+      "storm_label": "#06 - FERNAND",
+      "storm_name": "FERNAND",
+      "image": "images/year_2013_storm_06.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 6,
+      "storm_label": "#07 - GABRIELLE",
+      "storm_name": "GABRIELLE",
+      "image": "images/year_2013_storm_07.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 7,
+      "storm_label": "#08 - EIGHT",
+      "storm_name": "EIGHT",
+      "image": "images/year_2013_storm_08.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 8,
+      "storm_label": "#09 - HUMBERTO",
+      "storm_name": "HUMBERTO",
+      "image": "images/year_2013_storm_09.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 9,
+      "storm_label": "#10 - INGRID",
+      "storm_name": "INGRID",
+      "image": "images/year_2013_storm_10.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 10,
+      "storm_label": "#11 - JERRY",
+      "storm_name": "JERRY",
+      "image": "images/year_2013_storm_11.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 11,
+      "storm_label": "#12 - KAREN",
+      "storm_name": "KAREN",
+      "image": "images/year_2013_storm_12.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 12,
+      "storm_label": "#13 - LORENZO",
+      "storm_name": "LORENZO",
+      "image": "images/year_2013_storm_13.png"
+    },
+    {
+      "year": 2013,
+      "storm_value": 13,
+      "storm_label": "#14 - MELISSA",
+      "storm_name": "MELISSA",
+      "image": "images/year_2013_storm_14.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2014_all_storms.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 0,
+      "storm_label": "#01 - ARTHUR",
+      "storm_name": "ARTHUR",
+      "image": "images/year_2014_storm_01.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 1,
+      "storm_label": "#02 - TWO",
+      "storm_name": "TWO",
+      "image": "images/year_2014_storm_02.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 2,
+      "storm_label": "#03 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_2014_storm_03.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 3,
+      "storm_label": "#04 - CRISTOBAL",
+      "storm_name": "CRISTOBAL",
+      "image": "images/year_2014_storm_04.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 4,
+      "storm_label": "#05 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_2014_storm_05.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 5,
+      "storm_label": "#06 - EDOUARD",
+      "storm_name": "EDOUARD",
+      "image": "images/year_2014_storm_06.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 6,
+      "storm_label": "#07 - FAY",
+      "storm_name": "FAY",
+      "image": "images/year_2014_storm_07.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 7,
+      "storm_label": "#08 - GONZALO",
+      "storm_name": "GONZALO",
+      "image": "images/year_2014_storm_08.png"
+    },
+    {
+      "year": 2014,
+      "storm_value": 8,
+      "storm_label": "#09 - HANNA",
+      "storm_name": "HANNA",
+      "image": "images/year_2014_storm_09.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2015_all_storms.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 0,
+      "storm_label": "#01 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_2015_storm_01.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 1,
+      "storm_label": "#02 - BILL",
+      "storm_name": "BILL",
+      "image": "images/year_2015_storm_02.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 2,
+      "storm_label": "#03 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_2015_storm_03.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 3,
+      "storm_label": "#04 - DANNY",
+      "storm_name": "DANNY",
+      "image": "images/year_2015_storm_04.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 4,
+      "storm_label": "#05 - ERIKA",
+      "storm_name": "ERIKA",
+      "image": "images/year_2015_storm_05.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 5,
+      "storm_label": "#06 - FRED",
+      "storm_name": "FRED",
+      "image": "images/year_2015_storm_06.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 6,
+      "storm_label": "#07 - GRACE",
+      "storm_name": "GRACE",
+      "image": "images/year_2015_storm_07.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 7,
+      "storm_label": "#08 - HENRI",
+      "storm_name": "HENRI",
+      "image": "images/year_2015_storm_08.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 8,
+      "storm_label": "#09 - NINE",
+      "storm_name": "NINE",
+      "image": "images/year_2015_storm_09.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 9,
+      "storm_label": "#10 - IDA",
+      "storm_name": "IDA",
+      "image": "images/year_2015_storm_10.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 10,
+      "storm_label": "#11 - JOAQUIN",
+      "storm_name": "JOAQUIN",
+      "image": "images/year_2015_storm_11.png"
+    },
+    {
+      "year": 2015,
+      "storm_value": 11,
+      "storm_label": "#12 - KATE",
+      "storm_name": "KATE",
+      "image": "images/year_2015_storm_12.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2016_all_storms.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 0,
+      "storm_label": "#01 - ALEX",
+      "storm_name": "ALEX",
+      "image": "images/year_2016_storm_01.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 1,
+      "storm_label": "#02 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_2016_storm_02.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 2,
+      "storm_label": "#03 - COLIN",
+      "storm_name": "COLIN",
+      "image": "images/year_2016_storm_03.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 3,
+      "storm_label": "#04 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_2016_storm_04.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 4,
+      "storm_label": "#05 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_2016_storm_05.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 5,
+      "storm_label": "#06 - FIONA",
+      "storm_name": "FIONA",
+      "image": "images/year_2016_storm_06.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 6,
+      "storm_label": "#07 - GASTON",
+      "storm_name": "GASTON",
+      "image": "images/year_2016_storm_07.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 7,
+      "storm_label": "#08 - EIGHT",
+      "storm_name": "EIGHT",
+      "image": "images/year_2016_storm_08.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 8,
+      "storm_label": "#09 - HERMINE",
+      "storm_name": "HERMINE",
+      "image": "images/year_2016_storm_09.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 9,
+      "storm_label": "#10 - IAN",
+      "storm_name": "IAN",
+      "image": "images/year_2016_storm_10.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 10,
+      "storm_label": "#11 - JULIA",
+      "storm_name": "JULIA",
+      "image": "images/year_2016_storm_11.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 11,
+      "storm_label": "#12 - KARL",
+      "storm_name": "KARL",
+      "image": "images/year_2016_storm_12.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 12,
+      "storm_label": "#13 - LISA",
+      "storm_name": "LISA",
+      "image": "images/year_2016_storm_13.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 13,
+      "storm_label": "#14 - MATTHEW",
+      "storm_name": "MATTHEW",
+      "image": "images/year_2016_storm_14.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 14,
+      "storm_label": "#15 - NICOLE",
+      "storm_name": "NICOLE",
+      "image": "images/year_2016_storm_15.png"
+    },
+    {
+      "year": 2016,
+      "storm_value": 15,
+      "storm_label": "#16 - OTTO",
+      "storm_name": "OTTO",
+      "image": "images/year_2016_storm_16.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2017_all_storms.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 0,
+      "storm_label": "#01 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_2017_storm_01.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 1,
+      "storm_label": "#02 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_2017_storm_02.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 2,
+      "storm_label": "#03 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_2017_storm_03.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 3,
+      "storm_label": "#04 - FOUR",
+      "storm_name": "FOUR",
+      "image": "images/year_2017_storm_04.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 4,
+      "storm_label": "#05 - DON",
+      "storm_name": "DON",
+      "image": "images/year_2017_storm_05.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 5,
+      "storm_label": "#06 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_2017_storm_06.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 6,
+      "storm_label": "#07 - FRANKLIN",
+      "storm_name": "FRANKLIN",
+      "image": "images/year_2017_storm_07.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 7,
+      "storm_label": "#08 - GERT",
+      "storm_name": "GERT",
+      "image": "images/year_2017_storm_08.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 8,
+      "storm_label": "#09 - HARVEY",
+      "storm_name": "HARVEY",
+      "image": "images/year_2017_storm_09.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 10,
+      "storm_label": "#11 - IRMA",
+      "storm_name": "IRMA",
+      "image": "images/year_2017_storm_11.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 11,
+      "storm_label": "#12 - JOSE",
+      "storm_name": "JOSE",
+      "image": "images/year_2017_storm_12.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 12,
+      "storm_label": "#13 - KATIA",
+      "storm_name": "KATIA",
+      "image": "images/year_2017_storm_13.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 13,
+      "storm_label": "#14 - LEE",
+      "storm_name": "LEE",
+      "image": "images/year_2017_storm_14.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 14,
+      "storm_label": "#15 - MARIA",
+      "storm_name": "MARIA",
+      "image": "images/year_2017_storm_15.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 15,
+      "storm_label": "#16 - NATE",
+      "storm_name": "NATE",
+      "image": "images/year_2017_storm_16.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 16,
+      "storm_label": "#17 - OPHELIA",
+      "storm_name": "OPHELIA",
+      "image": "images/year_2017_storm_17.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 17,
+      "storm_label": "#18 - PHILIPPE",
+      "storm_name": "PHILIPPE",
+      "image": "images/year_2017_storm_18.png"
+    },
+    {
+      "year": 2017,
+      "storm_value": 18,
+      "storm_label": "#19 - RINA",
+      "storm_name": "RINA",
+      "image": "images/year_2017_storm_19.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2018_all_storms.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 0,
+      "storm_label": "#01 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_2018_storm_01.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 1,
+      "storm_label": "#02 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_2018_storm_02.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 2,
+      "storm_label": "#03 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_2018_storm_03.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 3,
+      "storm_label": "#04 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_2018_storm_04.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 4,
+      "storm_label": "#05 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_2018_storm_05.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 5,
+      "storm_label": "#06 - FLORENCE",
+      "storm_name": "FLORENCE",
+      "image": "images/year_2018_storm_06.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 6,
+      "storm_label": "#07 - GORDON",
+      "storm_name": "GORDON",
+      "image": "images/year_2018_storm_07.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 7,
+      "storm_label": "#08 - HELENE",
+      "storm_name": "HELENE",
+      "image": "images/year_2018_storm_08.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 8,
+      "storm_label": "#09 - ISAAC",
+      "storm_name": "ISAAC",
+      "image": "images/year_2018_storm_09.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 9,
+      "storm_label": "#10 - JOYCE",
+      "storm_name": "JOYCE",
+      "image": "images/year_2018_storm_10.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 10,
+      "storm_label": "#11 - ELEVEN",
+      "storm_name": "ELEVEN",
+      "image": "images/year_2018_storm_11.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 11,
+      "storm_label": "#12 - KIRK",
+      "storm_name": "KIRK",
+      "image": "images/year_2018_storm_12.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 12,
+      "storm_label": "#13 - LESLIE",
+      "storm_name": "LESLIE",
+      "image": "images/year_2018_storm_13.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 13,
+      "storm_label": "#14 - MICHAEL",
+      "storm_name": "MICHAEL",
+      "image": "images/year_2018_storm_14.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 14,
+      "storm_label": "#15 - NADINE",
+      "storm_name": "NADINE",
+      "image": "images/year_2018_storm_15.png"
+    },
+    {
+      "year": 2018,
+      "storm_value": 15,
+      "storm_label": "#16 - OSCAR",
+      "storm_name": "OSCAR",
+      "image": "images/year_2018_storm_16.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2019_all_storms.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 0,
+      "storm_label": "#01 - ANDREA",
+      "storm_name": "ANDREA",
+      "image": "images/year_2019_storm_01.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 1,
+      "storm_label": "#02 - BARRY",
+      "storm_name": "BARRY",
+      "image": "images/year_2019_storm_02.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 2,
+      "storm_label": "#03 - THREE",
+      "storm_name": "THREE",
+      "image": "images/year_2019_storm_03.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 3,
+      "storm_label": "#04 - CHANTAL",
+      "storm_name": "CHANTAL",
+      "image": "images/year_2019_storm_04.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 4,
+      "storm_label": "#05 - DORIAN",
+      "storm_name": "DORIAN",
+      "image": "images/year_2019_storm_05.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 5,
+      "storm_label": "#06 - ERIN",
+      "storm_name": "ERIN",
+      "image": "images/year_2019_storm_06.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 6,
+      "storm_label": "#07 - FERNAND",
+      "storm_name": "FERNAND",
+      "image": "images/year_2019_storm_07.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 7,
+      "storm_label": "#08 - GABRIELLE",
+      "storm_name": "GABRIELLE",
+      "image": "images/year_2019_storm_08.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 8,
+      "storm_label": "#09 - HUMBERTO",
+      "storm_name": "HUMBERTO",
+      "image": "images/year_2019_storm_09.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 9,
+      "storm_label": "#10 - JERRY",
+      "storm_name": "JERRY",
+      "image": "images/year_2019_storm_10.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 10,
+      "storm_label": "#11 - IMELDA",
+      "storm_name": "IMELDA",
+      "image": "images/year_2019_storm_11.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 11,
+      "storm_label": "#12 - KAREN",
+      "storm_name": "KAREN",
+      "image": "images/year_2019_storm_12.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 12,
+      "storm_label": "#13 - LORENZO",
+      "storm_name": "LORENZO",
+      "image": "images/year_2019_storm_13.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 13,
+      "storm_label": "#14 - MELISSA",
+      "storm_name": "MELISSA",
+      "image": "images/year_2019_storm_14.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 14,
+      "storm_label": "#15 - FIFTEEN",
+      "storm_name": "FIFTEEN",
+      "image": "images/year_2019_storm_15.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 15,
+      "storm_label": "#16 - NESTOR",
+      "storm_name": "NESTOR",
+      "image": "images/year_2019_storm_16.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 16,
+      "storm_label": "#17 - OLGA",
+      "storm_name": "OLGA",
+      "image": "images/year_2019_storm_17.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 17,
+      "storm_label": "#18 - PABLO",
+      "storm_name": "PABLO",
+      "image": "images/year_2019_storm_18.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 18,
+      "storm_label": "#19 - REBEKAH",
+      "storm_name": "REBEKAH",
+      "image": "images/year_2019_storm_19.png"
+    },
+    {
+      "year": 2019,
+      "storm_value": 19,
+      "storm_label": "#20 - SEBASTIEN",
+      "storm_name": "SEBASTIEN",
+      "image": "images/year_2019_storm_20.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2020_all_storms.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 0,
+      "storm_label": "#01 - ARTHUR",
+      "storm_name": "ARTHUR",
+      "image": "images/year_2020_storm_01.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 1,
+      "storm_label": "#02 - BERTHA",
+      "storm_name": "BERTHA",
+      "image": "images/year_2020_storm_02.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 2,
+      "storm_label": "#03 - CRISTOBAL",
+      "storm_name": "CRISTOBAL",
+      "image": "images/year_2020_storm_03.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 3,
+      "storm_label": "#04 - DOLLY",
+      "storm_name": "DOLLY",
+      "image": "images/year_2020_storm_04.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 4,
+      "storm_label": "#05 - EDOUARD",
+      "storm_name": "EDOUARD",
+      "image": "images/year_2020_storm_05.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 5,
+      "storm_label": "#06 - FAY",
+      "storm_name": "FAY",
+      "image": "images/year_2020_storm_06.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 6,
+      "storm_label": "#07 - GONZALO",
+      "storm_name": "GONZALO",
+      "image": "images/year_2020_storm_07.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 7,
+      "storm_label": "#08 - HANNA",
+      "storm_name": "HANNA",
+      "image": "images/year_2020_storm_08.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 8,
+      "storm_label": "#09 - ISAIAS",
+      "storm_name": "ISAIAS",
+      "image": "images/year_2020_storm_09.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 9,
+      "storm_label": "#10 - TEN",
+      "storm_name": "TEN",
+      "image": "images/year_2020_storm_10.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 10,
+      "storm_label": "#11 - JOSEPHINE",
+      "storm_name": "JOSEPHINE",
+      "image": "images/year_2020_storm_11.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 11,
+      "storm_label": "#12 - KYLE",
+      "storm_name": "KYLE",
+      "image": "images/year_2020_storm_12.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 12,
+      "storm_label": "#13 - LAURA",
+      "storm_name": "LAURA",
+      "image": "images/year_2020_storm_13.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 13,
+      "storm_label": "#14 - MARCO",
+      "storm_name": "MARCO",
+      "image": "images/year_2020_storm_14.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 14,
+      "storm_label": "#15 - OMAR",
+      "storm_name": "OMAR",
+      "image": "images/year_2020_storm_15.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 15,
+      "storm_label": "#16 - NANA",
+      "storm_name": "NANA",
+      "image": "images/year_2020_storm_16.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 16,
+      "storm_label": "#17 - PAULETTE",
+      "storm_name": "PAULETTE",
+      "image": "images/year_2020_storm_17.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 17,
+      "storm_label": "#18 - RENE",
+      "storm_name": "RENE",
+      "image": "images/year_2020_storm_18.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 18,
+      "storm_label": "#19 - SALLY",
+      "storm_name": "SALLY",
+      "image": "images/year_2020_storm_19.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 19,
+      "storm_label": "#20 - TEDDY",
+      "storm_name": "TEDDY",
+      "image": "images/year_2020_storm_20.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 20,
+      "storm_label": "#21 - VICKY",
+      "storm_name": "VICKY",
+      "image": "images/year_2020_storm_21.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 21,
+      "storm_label": "#22 - BETA",
+      "storm_name": "BETA",
+      "image": "images/year_2020_storm_22.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 22,
+      "storm_label": "#23 - WILFRED",
+      "storm_name": "WILFRED",
+      "image": "images/year_2020_storm_23.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 23,
+      "storm_label": "#24 - ALPHA",
+      "storm_name": "ALPHA",
+      "image": "images/year_2020_storm_24.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 24,
+      "storm_label": "#25 - GAMMA",
+      "storm_name": "GAMMA",
+      "image": "images/year_2020_storm_25.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 25,
+      "storm_label": "#26 - DELTA",
+      "storm_name": "DELTA",
+      "image": "images/year_2020_storm_26.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 26,
+      "storm_label": "#27 - EPSILON",
+      "storm_name": "EPSILON",
+      "image": "images/year_2020_storm_27.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 27,
+      "storm_label": "#28 - ZETA",
+      "storm_name": "ZETA",
+      "image": "images/year_2020_storm_28.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 28,
+      "storm_label": "#29 - ETA",
+      "storm_name": "ETA",
+      "image": "images/year_2020_storm_29.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 29,
+      "storm_label": "#30 - THETA",
+      "storm_name": "THETA",
+      "image": "images/year_2020_storm_30.png"
+    },
+    {
+      "year": 2020,
+      "storm_value": 30,
+      "storm_label": "#31 - IOTA",
+      "storm_name": "IOTA",
+      "image": "images/year_2020_storm_31.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2021_all_storms.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 0,
+      "storm_label": "#01 - ANA",
+      "storm_name": "ANA",
+      "image": "images/year_2021_storm_01.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 1,
+      "storm_label": "#02 - BILL",
+      "storm_name": "BILL",
+      "image": "images/year_2021_storm_02.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 2,
+      "storm_label": "#03 - CLAUDETTE",
+      "storm_name": "CLAUDETTE",
+      "image": "images/year_2021_storm_03.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 3,
+      "storm_label": "#04 - DANNY",
+      "storm_name": "DANNY",
+      "image": "images/year_2021_storm_04.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 4,
+      "storm_label": "#05 - ELSA",
+      "storm_name": "ELSA",
+      "image": "images/year_2021_storm_05.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 5,
+      "storm_label": "#06 - FRED",
+      "storm_name": "FRED",
+      "image": "images/year_2021_storm_06.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 6,
+      "storm_label": "#07 - GRACE",
+      "storm_name": "GRACE",
+      "image": "images/year_2021_storm_07.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 7,
+      "storm_label": "#08 - HENRI",
+      "storm_name": "HENRI",
+      "image": "images/year_2021_storm_08.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 8,
+      "storm_label": "#09 - IDA",
+      "storm_name": "IDA",
+      "image": "images/year_2021_storm_09.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 9,
+      "storm_label": "#10 - KATE",
+      "storm_name": "KATE",
+      "image": "images/year_2021_storm_10.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 10,
+      "storm_label": "#11 - JULIAN",
+      "storm_name": "JULIAN",
+      "image": "images/year_2021_storm_11.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 11,
+      "storm_label": "#12 - LARRY",
+      "storm_name": "LARRY",
+      "image": "images/year_2021_storm_12.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 12,
+      "storm_label": "#13 - MINDY",
+      "storm_name": "MINDY",
+      "image": "images/year_2021_storm_13.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 13,
+      "storm_label": "#14 - NICHOLAS",
+      "storm_name": "NICHOLAS",
+      "image": "images/year_2021_storm_14.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 14,
+      "storm_label": "#15 - ODETTE",
+      "storm_name": "ODETTE",
+      "image": "images/year_2021_storm_15.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 15,
+      "storm_label": "#16 - PETER",
+      "storm_name": "PETER",
+      "image": "images/year_2021_storm_16.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 16,
+      "storm_label": "#17 - ROSE",
+      "storm_name": "ROSE",
+      "image": "images/year_2021_storm_17.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 17,
+      "storm_label": "#18 - SAM",
+      "storm_name": "SAM",
+      "image": "images/year_2021_storm_18.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 18,
+      "storm_label": "#19 - TERESA",
+      "storm_name": "TERESA",
+      "image": "images/year_2021_storm_19.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 19,
+      "storm_label": "#20 - VICTOR",
+      "storm_name": "VICTOR",
+      "image": "images/year_2021_storm_20.png"
+    },
+    {
+      "year": 2021,
+      "storm_value": 20,
+      "storm_label": "#21 - WANDA",
+      "storm_name": "WANDA",
+      "image": "images/year_2021_storm_21.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2022_all_storms.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 0,
+      "storm_label": "#01 - ALEX",
+      "storm_name": "ALEX",
+      "image": "images/year_2022_storm_01.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 1,
+      "storm_label": "#02 - BONNIE",
+      "storm_name": "BONNIE",
+      "image": "images/year_2022_storm_02.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 2,
+      "storm_label": "#03 - COLIN",
+      "storm_name": "COLIN",
+      "image": "images/year_2022_storm_03.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 4,
+      "storm_label": "#05 - DANIELLE",
+      "storm_name": "DANIELLE",
+      "image": "images/year_2022_storm_05.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 5,
+      "storm_label": "#06 - EARL",
+      "storm_name": "EARL",
+      "image": "images/year_2022_storm_06.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 6,
+      "storm_label": "#07 - FIONA",
+      "storm_name": "FIONA",
+      "image": "images/year_2022_storm_07.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 7,
+      "storm_label": "#08 - GASTON",
+      "storm_name": "GASTON",
+      "image": "images/year_2022_storm_08.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 8,
+      "storm_label": "#09 - IAN",
+      "storm_name": "IAN",
+      "image": "images/year_2022_storm_09.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 9,
+      "storm_label": "#10 - HERMINE",
+      "storm_name": "HERMINE",
+      "image": "images/year_2022_storm_10.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 10,
+      "storm_label": "#11 - ELEVEN",
+      "storm_name": "ELEVEN",
+      "image": "images/year_2022_storm_11.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 11,
+      "storm_label": "#12 - TWELVE",
+      "storm_name": "TWELVE",
+      "image": "images/year_2022_storm_12.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 12,
+      "storm_label": "#13 - JULIA",
+      "storm_name": "JULIA",
+      "image": "images/year_2022_storm_13.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 13,
+      "storm_label": "#14 - KARL",
+      "storm_name": "KARL",
+      "image": "images/year_2022_storm_14.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 14,
+      "storm_label": "#15 - LISA",
+      "storm_name": "LISA",
+      "image": "images/year_2022_storm_15.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 15,
+      "storm_label": "#16 - MARTIN",
+      "storm_name": "MARTIN",
+      "image": "images/year_2022_storm_16.png"
+    },
+    {
+      "year": 2022,
+      "storm_value": 16,
+      "storm_label": "#17 - NICOLE",
+      "storm_name": "NICOLE",
+      "image": "images/year_2022_storm_17.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2023_all_storms.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 1,
+      "storm_label": "#02 - ARLENE",
+      "storm_name": "ARLENE",
+      "image": "images/year_2023_storm_02.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 2,
+      "storm_label": "#03 - BRET",
+      "storm_name": "BRET",
+      "image": "images/year_2023_storm_03.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 3,
+      "storm_label": "#04 - CINDY",
+      "storm_name": "CINDY",
+      "image": "images/year_2023_storm_04.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 4,
+      "storm_label": "#05 - DON",
+      "storm_name": "DON",
+      "image": "images/year_2023_storm_05.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 5,
+      "storm_label": "#06 - GERT",
+      "storm_name": "GERT",
+      "image": "images/year_2023_storm_06.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 6,
+      "storm_label": "#07 - EMILY",
+      "storm_name": "EMILY",
+      "image": "images/year_2023_storm_07.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 7,
+      "storm_label": "#08 - FRANKLIN",
+      "storm_name": "FRANKLIN",
+      "image": "images/year_2023_storm_08.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 8,
+      "storm_label": "#09 - HAROLD",
+      "storm_name": "HAROLD",
+      "image": "images/year_2023_storm_09.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 9,
+      "storm_label": "#10 - IDALIA",
+      "storm_name": "IDALIA",
+      "image": "images/year_2023_storm_10.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 10,
+      "storm_label": "#11 - JOSE",
+      "storm_name": "JOSE",
+      "image": "images/year_2023_storm_11.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 11,
+      "storm_label": "#12 - KATIA",
+      "storm_name": "KATIA",
+      "image": "images/year_2023_storm_12.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 12,
+      "storm_label": "#13 - LEE",
+      "storm_name": "LEE",
+      "image": "images/year_2023_storm_13.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 13,
+      "storm_label": "#14 - MARGOT",
+      "storm_name": "MARGOT",
+      "image": "images/year_2023_storm_14.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 14,
+      "storm_label": "#15 - NIGEL",
+      "storm_name": "NIGEL",
+      "image": "images/year_2023_storm_15.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 15,
+      "storm_label": "#16 - OPHELIA",
+      "storm_name": "OPHELIA",
+      "image": "images/year_2023_storm_16.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 16,
+      "storm_label": "#17 - PHILIPPE",
+      "storm_name": "PHILIPPE",
+      "image": "images/year_2023_storm_17.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 17,
+      "storm_label": "#18 - RINA",
+      "storm_name": "RINA",
+      "image": "images/year_2023_storm_18.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 18,
+      "storm_label": "#19 - SEAN",
+      "storm_name": "SEAN",
+      "image": "images/year_2023_storm_19.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 19,
+      "storm_label": "#20 - TAMMY",
+      "storm_name": "TAMMY",
+      "image": "images/year_2023_storm_20.png"
+    },
+    {
+      "year": 2023,
+      "storm_value": 20,
+      "storm_label": "#21 - TWENTY-ONE",
+      "storm_name": "TWENTY-ONE",
+      "image": "images/year_2023_storm_21.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": "All storms",
+      "storm_label": "All storms",
+      "storm_name": "All storms",
+      "image": "images/year_2024_all_storms.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 0,
+      "storm_label": "#01 - ALBERTO",
+      "storm_name": "ALBERTO",
+      "image": "images/year_2024_storm_01.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 1,
+      "storm_label": "#02 - BERYL",
+      "storm_name": "BERYL",
+      "image": "images/year_2024_storm_02.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 2,
+      "storm_label": "#03 - CHRIS",
+      "storm_name": "CHRIS",
+      "image": "images/year_2024_storm_03.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 3,
+      "storm_label": "#04 - DEBBY",
+      "storm_name": "DEBBY",
+      "image": "images/year_2024_storm_04.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 4,
+      "storm_label": "#05 - ERNESTO",
+      "storm_name": "ERNESTO",
+      "image": "images/year_2024_storm_05.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 5,
+      "storm_label": "#06 - FRANCINE",
+      "storm_name": "FRANCINE",
+      "image": "images/year_2024_storm_06.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 6,
+      "storm_label": "#07 - GORDON",
+      "storm_name": "GORDON",
+      "image": "images/year_2024_storm_07.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 8,
+      "storm_label": "#09 - HELENE",
+      "storm_name": "HELENE",
+      "image": "images/year_2024_storm_09.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 9,
+      "storm_label": "#10 - ISAAC",
+      "storm_name": "ISAAC",
+      "image": "images/year_2024_storm_10.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 10,
+      "storm_label": "#11 - JOYCE",
+      "storm_name": "JOYCE",
+      "image": "images/year_2024_storm_11.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 11,
+      "storm_label": "#12 - KIRK",
+      "storm_name": "KIRK",
+      "image": "images/year_2024_storm_12.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 12,
+      "storm_label": "#13 - LESLIE",
+      "storm_name": "LESLIE",
+      "image": "images/year_2024_storm_13.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 13,
+      "storm_label": "#14 - MILTON",
+      "storm_name": "MILTON",
+      "image": "images/year_2024_storm_14.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 14,
+      "storm_label": "#15 - NADINE",
+      "storm_name": "NADINE",
+      "image": "images/year_2024_storm_15.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 15,
+      "storm_label": "#16 - OSCAR",
+      "storm_name": "OSCAR",
+      "image": "images/year_2024_storm_16.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 16,
+      "storm_label": "#17 - PATTY",
+      "storm_name": "PATTY",
+      "image": "images/year_2024_storm_17.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 17,
+      "storm_label": "#18 - RAFAEL",
+      "storm_name": "RAFAEL",
+      "image": "images/year_2024_storm_18.png"
+    },
+    {
+      "year": 2024,
+      "storm_value": 18,
+      "storm_label": "#19 - SARA",
+      "storm_name": "SARA",
+      "image": "images/year_2024_storm_19.png"
+    }
+  ]
+}

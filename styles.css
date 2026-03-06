@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f7f7f7;
+  color: #222;
+}
+
+.wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.controls {
+  display: flex;
+  gap: 12px;
+  align-items: end;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+select, input, button {
+  padding: 8px 10px;
+  font-size: 14px;
+}
+
+.msg {
+  min-height: 24px;
+  margin: 8px 0 12px;
+  font-weight: 600;
+}
+
+.viewer {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+.viewer img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

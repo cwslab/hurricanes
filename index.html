@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HURDAT2 Storm Viewer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="wrap">
+    <h1>HURDAT2 Storm Viewer</h1>
+
+    <div class="controls">
+      <label>
+        Year
+        <select id="yearSelect"></select>
+      </label>
+
+      <button id="prevBtn">◀</button>
+      <button id="nextBtn">▶</button>
+
+      <label>
+        Storm
+        <select id="stormSelect"></select>
+      </label>
+    </div>
+
+    <div class="controls">
+      <label>
+        Search
+        <input id="searchInput" type="text" placeholder="katrina, irma, michael">
+      </label>
+      <button id="searchBtn">Go</button>
+
+      <label>
+        Matches
+        <select id="matchSelect"></select>
+      </label>
+    </div>
+
+    <div id="msg" class="msg"></div>
+
+    <div class="viewer">
+      <img id="stormImg" alt="Storm map">
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
